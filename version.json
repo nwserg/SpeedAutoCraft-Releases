@@ -1,7 +1,7 @@
-﻿{
-    "version":  "2026.08.08-1906",
+{
+    "version":  "2026.08.08-1934",
     "commit":  "0e8160c",
-    "builtUtc":  "2026-08-08T12:06:31.0713009Z",
+    "builtUtc":  "2026-08-08T12:34:08.0800674Z",
     "notes":  "",
     "localBuild":  false,
     "files":  [
@@ -67,8 +67,8 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "BDBF73DB7F0D211C8CF6FB8FAED51AB7ECB48FB100C5D5FFCD525633D18FF85E",
-                      "size":  50688
+                      "sha256":  "145967E1C155EF13A1526A441EA7FCEBB0FBB64B7E2CDD07B21388E32309CF4E",
+                      "size":  96768
                   },
                   {
                       "path":  "Compiled/PricerPlugin/mod_mapping.json",
