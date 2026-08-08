@@ -1,0 +1,1536 @@
+{
+  "clusterName": "Large Cluster Jewel Affliction Mace And Staff Damage",
+  "url": "https://poedb.tw/us/Large_Cluster_Jewel_affliction_mace_and_staff_damage",
+  "parsedAt": "2026-07-30T18:45:11.558Z",
+  "parsingMethod": "Modal-table extraction v4.0",
+  "processingTimeMs": 146,
+  "stats": {
+    "totalGroups": 30,
+    "totalModifiers": 32,
+    "totalTiers": 270,
+    "prefixGroups": 17,
+    "suffixGroups": 13,
+    "processingTime": 146
+  },
+  "modifierGroups": {
+    "prefixGroups": [
+      {
+        "groupId": "1AfflictionNotableViciousSkewering",
+        "groupName": null,
+        "dataGenGroup": "1AfflictionNotableViciousSkewering",
+        "modalId": "collapseOnenormal1AfflictionNotableViciousSkewering",
+        "totalWeight": 141,
+        "modifiers": [
+          {
+            "modId": "added_passive_skill_is_vicious_skewering",
+            "baseDescription": "1 Added Passive Skill is Vicious Skewering ,,",
+            "tiers": [
+              {
+                "tier": 1,
+                "name": "Notable",
+                "reqLevel": 68,
+                "weight": 141,
+                "description": "1 Added Passive Skill is Vicious Skewering ,,",
+                "tags": [
+                  "Physical",
+                  "Attack",
+                  "Ailment"
+                ],
+                "valueRange": null,
+                "patternString": "1 Added Passive Skill is Vicious Skewering ,,"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "groupId": "1AfflictionNotableOverlord",
+        "groupName": null,
+        "dataGenGroup": "1AfflictionNotableOverlord",
+        "modalId": "collapseOnenormal1AfflictionNotableOverlord",
+        "totalWeight": 47,
+        "modifiers": [
+          {
+            "modId": "added_passive_skill_is_overlord",
+            "baseDescription": "1 Added Passive Skill is Overlord ,",
+            "tiers": [
+              {
+                "tier": 1,
+                "name": "Notable",
+                "reqLevel": 75,
+                "weight": 47,
+                "description": "1 Added Passive Skill is Overlord ,",
+                "tags": [
+                  "Damage",
+                  "Attack"
+                ],
+                "valueRange": null,
+                "patternString": "1 Added Passive Skill is Overlord ,"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "groupId": "1AfflictionNotableExpansiveMight",
+        "groupName": null,
+        "dataGenGroup": "1AfflictionNotableExpansiveMight",
+        "modalId": "collapseOnenormal1AfflictionNotableExpansiveMight",
+        "totalWeight": 141,
+        "modifiers": [
+          {
+            "modId": "added_passive_skill_is_expansive_might",
+            "baseDescription": "1 Added Passive Skill is Expansive Might ,",
+            "tiers": [
+              {
+                "tier": 1,
+                "name": "Notable",
+                "reqLevel": 68,
+                "weight": 141,
+                "description": "1 Added Passive Skill is Expansive Might ,",
+                "tags": [
+                  "Damage",
+                  "Attack"
+                ],
+                "valueRange": null,
+                "patternString": "1 Added Passive Skill is Expansive Might ,"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "groupId": "1AfflictionNotableWeightAdvantage",
+        "groupName": null,
+        "dataGenGroup": "1AfflictionNotableWeightAdvantage",
+        "modalId": "collapseOnenormal1AfflictionNotableWeightAdvantage",
+        "totalWeight": 750,
+        "modifiers": [
+          {
+            "modId": "added_passive_skill_is_weight_advantage",
+            "baseDescription": "1 Added Passive Skill is Weight Advantage ,,",
+            "tiers": [
+              {
+                "tier": 1,
+                "name": "Notable",
+                "reqLevel": 1,
+                "weight": 750,
+                "description": "1 Added Passive Skill is Weight Advantage ,,",
+                "tags": [
+                  "Damage",
+                  "Attack",
+                  "Attribute"
+                ],
+                "valueRange": null,
+                "patternString": "1 Added Passive Skill is Weight Advantage ,,"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "groupId": "1AfflictionNotableCalamitous",
+        "groupName": null,
+        "dataGenGroup": "1AfflictionNotableCalamitous",
+        "modalId": "collapseOnenormal1AfflictionNotableCalamitous",
+        "totalWeight": 375,
+        "modifiers": [
+          {
+            "modId": "added_passive_skill_is_calamitous",
+            "baseDescription": "1 Added Passive Skill is Calamitous ,,,,,",
+            "tiers": [
+              {
+                "tier": 1,
+                "name": "Notable",
+                "reqLevel": 50,
+                "weight": 375,
+                "description": "1 Added Passive Skill is Calamitous ,,,,,",
+                "tags": [
+                  "Elemental",
+                  "Fire",
+                  "Cold",
+                  "Lightning",
+                  "Attack",
+                  "Ailment"
+                ],
+                "valueRange": null,
+                "patternString": "1 Added Passive Skill is Calamitous ,,,,,"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "groupId": "1AfflictionNotableDevastator",
+        "groupName": null,
+        "dataGenGroup": "1AfflictionNotableDevastator",
+        "modalId": "collapseOnenormal1AfflictionNotableDevastator",
+        "totalWeight": 47,
+        "modifiers": [
+          {
+            "modId": "added_passive_skill_is_devastator",
+            "baseDescription": "1 Added Passive Skill is Devastator ,,",
+            "tiers": [
+              {
+                "tier": 1,
+                "name": "Notable",
+                "reqLevel": 75,
+                "weight": 47,
+                "description": "1 Added Passive Skill is Devastator ,,",
+                "tags": [
+                  "Damage",
+                  "Physical",
+                  "Attack"
+                ],
+                "valueRange": null,
+                "patternString": "1 Added Passive Skill is Devastator ,,"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "groupId": "1AfflictionNotableFueltheFight",
+        "groupName": null,
+        "dataGenGroup": "1AfflictionNotableFueltheFight",
+        "modalId": "collapseOnenormal1AfflictionNotableFueltheFight",
+        "totalWeight": 750,
+        "modifiers": [
+          {
+            "modId": "added_passive_skill_is_fuel_the_fight",
+            "baseDescription": "1 Added Passive Skill is Fuel the Fight ,,",
+            "tiers": [
+              {
+                "tier": 1,
+                "name": "Notable",
+                "reqLevel": 1,
+                "weight": 750,
+                "description": "1 Added Passive Skill is Fuel the Fight ,,",
+                "tags": [
+                  "Mana",
+                  "Attack",
+                  "Speed"
+                ],
+                "valueRange": null,
+                "patternString": "1 Added Passive Skill is Fuel the Fight ,,"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "groupId": "1AfflictionNotableDrivetheDestruction",
+        "groupName": null,
+        "dataGenGroup": "1AfflictionNotableDrivetheDestruction",
+        "modalId": "collapseOnenormal1AfflictionNotableDrivetheDestruction",
+        "totalWeight": 750,
+        "modifiers": [
+          {
+            "modId": "added_passive_skill_is_drive_the_destruction",
+            "baseDescription": "1 Added Passive Skill is Drive the Destruction ,,",
+            "tiers": [
+              {
+                "tier": 1,
+                "name": "Notable",
+                "reqLevel": 1,
+                "weight": 750,
+                "description": "1 Added Passive Skill is Drive the Destruction ,,",
+                "tags": [
+                  "Life",
+                  "Damage",
+                  "Attack"
+                ],
+                "valueRange": null,
+                "patternString": "1 Added Passive Skill is Drive the Destruction ,,"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "groupId": "1AfflictionNotableFeedtheFury",
+        "groupName": null,
+        "dataGenGroup": "1AfflictionNotableFeedtheFury",
+        "modalId": "collapseOnenormal1AfflictionNotableFeedtheFury",
+        "totalWeight": 375,
+        "modifiers": [
+          {
+            "modId": "added_passive_skill_is_feed_the_fury",
+            "baseDescription": "1 Added Passive Skill is Feed the Fury ,,,",
+            "tiers": [
+              {
+                "tier": 1,
+                "name": "Notable",
+                "reqLevel": 50,
+                "weight": 375,
+                "description": "1 Added Passive Skill is Feed the Fury ,,,",
+                "tags": [
+                  "Life",
+                  "Damage",
+                  "Attack",
+                  "Speed"
+                ],
+                "valueRange": null,
+                "patternString": "1 Added Passive Skill is Feed the Fury ,,,"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "groupId": "1AfflictionNotableAggressiveDefence",
+        "groupName": null,
+        "dataGenGroup": "1AfflictionNotableAggressiveDefence",
+        "modalId": "collapseOnenormal1AfflictionNotableAggressiveDefence",
+        "totalWeight": 750,
+        "modifiers": [
+          {
+            "modId": "added_passive_skill_is_aggressive_defence",
+            "baseDescription": "1 Added Passive Skill is Aggressive Defence ,",
+            "tiers": [
+              {
+                "tier": 1,
+                "name": "Notable",
+                "reqLevel": 1,
+                "weight": 750,
+                "description": "1 Added Passive Skill is Aggressive Defence ,",
+                "tags": [
+                  "Damage",
+                  "Attack"
+                ],
+                "valueRange": null,
+                "patternString": "1 Added Passive Skill is Aggressive Defence ,"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "groupId": "1AfflictionJewelSmallPassivesGrantLife",
+        "groupName": null,
+        "dataGenGroup": "1AfflictionJewelSmallPassivesGrantLife",
+        "modalId": "collapseOnenormal1AfflictionJewelSmallPassivesGrantLife",
+        "totalWeight": 1200,
+        "modifiers": [
+          {
+            "modId": "added_small_passive_skills_also_grant_to_maximum_life",
+            "baseDescription": "Added Small Passive Skills also grant: # to Maximum Life",
+            "tiers": [
+              {
+                "tier": 1,
+                "name": "Sanguine",
+                "reqLevel": 84,
+                "weight": 300,
+                "description": "Added Small Passive Skills also grant: +(8—10) to Maximum Life",
+                "tags": [
+                  "Life"
+                ],
+                "valueRange": {
+                  "min": 8,
+                  "max": 10
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(8—10\\) to Maximum Life"
+              },
+              {
+                "tier": 2,
+                "name": "Healthy",
+                "reqLevel": 68,
+                "weight": 400,
+                "description": "Added Small Passive Skills also grant: +(4—7) to Maximum Life",
+                "tags": [
+                  "Life"
+                ],
+                "valueRange": {
+                  "min": 4,
+                  "max": 7
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(4—7\\) to Maximum Life"
+              },
+              {
+                "tier": 3,
+                "name": "Hale",
+                "reqLevel": 1,
+                "weight": 500,
+                "description": "Added Small Passive Skills also grant: +(2—3) to Maximum Life",
+                "tags": [
+                  "Life"
+                ],
+                "valueRange": {
+                  "min": 2,
+                  "max": 3
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(2—3\\) to Maximum Life"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "groupId": "1AfflictionJewelSmallPassivesGrantMana",
+        "groupName": null,
+        "dataGenGroup": "1AfflictionJewelSmallPassivesGrantMana",
+        "modalId": "collapseOnenormal1AfflictionJewelSmallPassivesGrantMana",
+        "totalWeight": 1200,
+        "modifiers": [
+          {
+            "modId": "added_small_passive_skills_also_grant_to_maximum_mana",
+            "baseDescription": "Added Small Passive Skills also grant: # to Maximum Mana",
+            "tiers": [
+              {
+                "tier": 1,
+                "name": "Azure",
+                "reqLevel": 84,
+                "weight": 300,
+                "description": "Added Small Passive Skills also grant: +(9—10) to Maximum Mana",
+                "tags": [
+                  "Mana"
+                ],
+                "valueRange": {
+                  "min": 9,
+                  "max": 10
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(9—10\\) to Maximum Mana"
+              },
+              {
+                "tier": 2,
+                "name": "Cobalt",
+                "reqLevel": 68,
+                "weight": 400,
+                "description": "Added Small Passive Skills also grant: +(6—8) to Maximum Mana",
+                "tags": [
+                  "Mana"
+                ],
+                "valueRange": {
+                  "min": 6,
+                  "max": 8
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(6—8\\) to Maximum Mana"
+              },
+              {
+                "tier": 3,
+                "name": "Beryl",
+                "reqLevel": 1,
+                "weight": 500,
+                "description": "Added Small Passive Skills also grant: +(2—5) to Maximum Mana",
+                "tags": [
+                  "Mana"
+                ],
+                "valueRange": {
+                  "min": 2,
+                  "max": 5
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(2—5\\) to Maximum Mana"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "groupId": "1AfflictionJewelSmallPassivesGrantES",
+        "groupName": null,
+        "dataGenGroup": "1AfflictionJewelSmallPassivesGrantES",
+        "modalId": "collapseOnenormal1AfflictionJewelSmallPassivesGrantES",
+        "totalWeight": 1200,
+        "modifiers": [
+          {
+            "modId": "added_small_passive_skills_also_grant_to_maximum_energy_shield",
+            "baseDescription": "Added Small Passive Skills also grant: # to Maximum Energy Shield ,",
+            "tiers": [
+              {
+                "tier": 1,
+                "name": "Glowing",
+                "reqLevel": 84,
+                "weight": 300,
+                "description": "Added Small Passive Skills also grant: +(10—12) to Maximum Energy Shield ,",
+                "tags": [
+                  "Defences",
+                  "Energy_shield"
+                ],
+                "valueRange": {
+                  "min": 10,
+                  "max": 12
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(10—12\\) to Maximum Energy Shield ,"
+              },
+              {
+                "tier": 2,
+                "name": "Glimmering",
+                "reqLevel": 68,
+                "weight": 400,
+                "description": "Added Small Passive Skills also grant: +(6—9) to Maximum Energy Shield ,",
+                "tags": [
+                  "Defences",
+                  "Energy_shield"
+                ],
+                "valueRange": {
+                  "min": 6,
+                  "max": 9
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(6—9\\) to Maximum Energy Shield ,"
+              },
+              {
+                "tier": 3,
+                "name": "Shining",
+                "reqLevel": 1,
+                "weight": 500,
+                "description": "Added Small Passive Skills also grant: +(4—5) to Maximum Energy Shield ,",
+                "tags": [
+                  "Defences",
+                  "Energy_shield"
+                ],
+                "valueRange": {
+                  "min": 4,
+                  "max": 5
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(4—5\\) to Maximum Energy Shield ,"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "groupId": "1AfflictionJewelSmallPassivesGrantArmour",
+        "groupName": null,
+        "dataGenGroup": "1AfflictionJewelSmallPassivesGrantArmour",
+        "modalId": "collapseOnenormal1AfflictionJewelSmallPassivesGrantArmour",
+        "totalWeight": 1200,
+        "modifiers": [
+          {
+            "modId": "added_small_passive_skills_also_grant_to_armour",
+            "baseDescription": "Added Small Passive Skills also grant: # to Armour ,",
+            "tiers": [
+              {
+                "tier": 1,
+                "name": "Ribbed",
+                "reqLevel": 84,
+                "weight": 300,
+                "description": "Added Small Passive Skills also grant: +(31—40) to Armour ,",
+                "tags": [
+                  "Defences",
+                  "Armour"
+                ],
+                "valueRange": {
+                  "min": 31,
+                  "max": 40
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(31—40\\) to Armour ,"
+              },
+              {
+                "tier": 2,
+                "name": "Studded",
+                "reqLevel": 68,
+                "weight": 400,
+                "description": "Added Small Passive Skills also grant: +(21—30) to Armour ,",
+                "tags": [
+                  "Defences",
+                  "Armour"
+                ],
+                "valueRange": {
+                  "min": 21,
+                  "max": 30
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(21—30\\) to Armour ,"
+              },
+              {
+                "tier": 3,
+                "name": "Lacquered",
+                "reqLevel": 1,
+                "weight": 500,
+                "description": "Added Small Passive Skills also grant: +(11—20) to Armour ,",
+                "tags": [
+                  "Defences",
+                  "Armour"
+                ],
+                "valueRange": {
+                  "min": 11,
+                  "max": 20
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(11—20\\) to Armour ,"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "groupId": "1AfflictionJewelSmallPassivesGrantEvasion",
+        "groupName": null,
+        "dataGenGroup": "1AfflictionJewelSmallPassivesGrantEvasion",
+        "modalId": "collapseOnenormal1AfflictionJewelSmallPassivesGrantEvasion",
+        "totalWeight": 1200,
+        "modifiers": [
+          {
+            "modId": "added_small_passive_skills_also_grant_to_evasion",
+            "baseDescription": "Added Small Passive Skills also grant: # to Evasion ,",
+            "tiers": [
+              {
+                "tier": 1,
+                "name": "Acrobat's",
+                "reqLevel": 84,
+                "weight": 300,
+                "description": "Added Small Passive Skills also grant: +(31—40) to Evasion ,",
+                "tags": [
+                  "Defences",
+                  "Evasion"
+                ],
+                "valueRange": {
+                  "min": 31,
+                  "max": 40
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(31—40\\) to Evasion ,"
+              },
+              {
+                "tier": 2,
+                "name": "Dancer's",
+                "reqLevel": 68,
+                "weight": 400,
+                "description": "Added Small Passive Skills also grant: +(21—30) to Evasion ,",
+                "tags": [
+                  "Defences",
+                  "Evasion"
+                ],
+                "valueRange": {
+                  "min": 21,
+                  "max": 30
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(21—30\\) to Evasion ,"
+              },
+              {
+                "tier": 3,
+                "name": "Agile",
+                "reqLevel": 1,
+                "weight": 500,
+                "description": "Added Small Passive Skills also grant: +(11—20) to Evasion ,",
+                "tags": [
+                  "Defences",
+                  "Evasion"
+                ],
+                "valueRange": {
+                  "min": 11,
+                  "max": 20
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(11—20\\) to Evasion ,"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "groupId": "1AfflictionJewelSmallPassivesGrantDamage",
+        "groupName": null,
+        "dataGenGroup": "1AfflictionJewelSmallPassivesGrantDamage",
+        "modalId": "collapseOnenormal1AfflictionJewelSmallPassivesGrantDamage",
+        "totalWeight": 1200,
+        "modifiers": [
+          {
+            "modId": "added_small_passive_skills_also_grant_increased_damage",
+            "baseDescription": "Added Small Passive Skills also grant: 2% increased Damage",
+            "tiers": [
+              {
+                "tier": 1,
+                "name": "Dangerous",
+                "reqLevel": 84,
+                "weight": 300,
+                "description": "Added Small Passive Skills also grant: 4% increased Damage",
+                "tags": [
+                  "Damage"
+                ],
+                "valueRange": {
+                  "min": 4,
+                  "max": 4
+                },
+                "patternString": "Added Small Passive Skills also grant: 4% increased Damage"
+              },
+              {
+                "tier": 2,
+                "name": "Hazardous",
+                "reqLevel": 68,
+                "weight": 400,
+                "description": "Added Small Passive Skills also grant: 3% increased Damage",
+                "tags": [
+                  "Damage"
+                ],
+                "valueRange": {
+                  "min": 3,
+                  "max": 3
+                },
+                "patternString": "Added Small Passive Skills also grant: 3% increased Damage"
+              },
+              {
+                "tier": 3,
+                "name": "Harmful",
+                "reqLevel": 1,
+                "weight": 500,
+                "description": "Added Small Passive Skills also grant: 2% increased Damage",
+                "tags": [
+                  "Damage"
+                ],
+                "valueRange": {
+                  "min": 2,
+                  "max": 2
+                },
+                "patternString": "Added Small Passive Skills also grant: 2% increased Damage"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "groupId": "1AfflictionJewelSmallPassivesHaveIncreasedEffect",
+        "groupName": null,
+        "dataGenGroup": "1AfflictionJewelSmallPassivesHaveIncreasedEffect",
+        "modalId": "collapseOnenormal1AfflictionJewelSmallPassivesHaveIncreasedEffect",
+        "totalWeight": 800,
+        "modifiers": [
+          {
+            "modId": "added_small_passive_skills_have_increased_effect",
+            "baseDescription": "Added Small Passive Skills have 25% increased Effect",
+            "tiers": [
+              {
+                "tier": 1,
+                "name": "Powerful",
+                "reqLevel": 84,
+                "weight": 300,
+                "description": "Added Small Passive Skills have 35% increased Effect",
+                "tags": [],
+                "valueRange": {
+                  "min": 35,
+                  "max": 35
+                },
+                "patternString": "Added Small Passive Skills have 35% increased Effect"
+              },
+              {
+                "tier": 2,
+                "name": "Potent",
+                "reqLevel": 1,
+                "weight": 500,
+                "description": "Added Small Passive Skills have 25% increased Effect",
+                "tags": [],
+                "valueRange": {
+                  "min": 25,
+                  "max": 25
+                },
+                "patternString": "Added Small Passive Skills have 25% increased Effect"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "suffixGroups": [
+      {
+        "groupId": "2AfflictionNotableLargeSuffix",
+        "groupName": null,
+        "dataGenGroup": "2AfflictionNotableLargeSuffix",
+        "modalId": "collapseOnenormal2AfflictionNotableLargeSuffix",
+        "totalWeight": 1875,
+        "modifiers": [
+          {
+            "modId": "added_passive_skill_is_smite_the_weak",
+            "baseDescription": "1 Added Passive Skill is Smite the Weak ,",
+            "tiers": [
+              {
+                "tier": 2,
+                "name": "of Significance",
+                "reqLevel": 1,
+                "weight": 750,
+                "description": "1 Added Passive Skill is Smite the Weak ,",
+                "tags": [
+                  "Damage",
+                  "Attack"
+                ],
+                "valueRange": null,
+                "patternString": "1 Added Passive Skill is Smite the Weak ,"
+              }
+            ]
+          },
+          {
+            "modId": "added_passive_skill_is_heavy_hitter",
+            "baseDescription": "1 Added Passive Skill is Heavy Hitter ,",
+            "tiers": [
+              {
+                "tier": 1,
+                "name": "of Significance",
+                "reqLevel": 50,
+                "weight": 375,
+                "description": "1 Added Passive Skill is Heavy Hitter ,",
+                "tags": [
+                  "Damage",
+                  "Attack"
+                ],
+                "valueRange": null,
+                "patternString": "1 Added Passive Skill is Heavy Hitter ,"
+              }
+            ]
+          },
+          {
+            "modId": "added_passive_skill_is_martial_prowess",
+            "baseDescription": "1 Added Passive Skill is Martial Prowess ,,",
+            "tiers": [
+              {
+                "tier": 2,
+                "name": "of Significance",
+                "reqLevel": 1,
+                "weight": 750,
+                "description": "1 Added Passive Skill is Martial Prowess ,,",
+                "tags": [
+                  "Damage",
+                  "Attack",
+                  "Speed"
+                ],
+                "valueRange": null,
+                "patternString": "1 Added Passive Skill is Martial Prowess ,,"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "groupId": "2AfflictionJewelSmallPassivesGrantStr",
+        "groupName": null,
+        "dataGenGroup": "2AfflictionJewelSmallPassivesGrantStr",
+        "modalId": "collapseOnenormal2AfflictionJewelSmallPassivesGrantStr",
+        "totalWeight": 1200,
+        "modifiers": [
+          {
+            "modId": "added_small_passive_skills_also_grant_to_strength",
+            "baseDescription": "Added Small Passive Skills also grant: # to Strength",
+            "tiers": [
+              {
+                "tier": 1,
+                "name": "of the Bear",
+                "reqLevel": 84,
+                "weight": 300,
+                "description": "Added Small Passive Skills also grant: +(6—8) to Strength",
+                "tags": [
+                  "Attribute"
+                ],
+                "valueRange": {
+                  "min": 6,
+                  "max": 8
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(6—8\\) to Strength"
+              },
+              {
+                "tier": 2,
+                "name": "of the Wrestler",
+                "reqLevel": 68,
+                "weight": 400,
+                "description": "Added Small Passive Skills also grant: +(4—5) to Strength",
+                "tags": [
+                  "Attribute"
+                ],
+                "valueRange": {
+                  "min": 4,
+                  "max": 5
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(4—5\\) to Strength"
+              },
+              {
+                "tier": 3,
+                "name": "of the Brute",
+                "reqLevel": 1,
+                "weight": 500,
+                "description": "Added Small Passive Skills also grant: +(2—3) to Strength",
+                "tags": [
+                  "Attribute"
+                ],
+                "valueRange": {
+                  "min": 2,
+                  "max": 3
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(2—3\\) to Strength"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "groupId": "2AfflictionJewelSmallPassivesGrantDex",
+        "groupName": null,
+        "dataGenGroup": "2AfflictionJewelSmallPassivesGrantDex",
+        "modalId": "collapseOnenormal2AfflictionJewelSmallPassivesGrantDex",
+        "totalWeight": 1200,
+        "modifiers": [
+          {
+            "modId": "added_small_passive_skills_also_grant_to_dexterity",
+            "baseDescription": "Added Small Passive Skills also grant: # to Dexterity",
+            "tiers": [
+              {
+                "tier": 1,
+                "name": "of the Fox",
+                "reqLevel": 84,
+                "weight": 300,
+                "description": "Added Small Passive Skills also grant: +(6—8) to Dexterity",
+                "tags": [
+                  "Attribute"
+                ],
+                "valueRange": {
+                  "min": 6,
+                  "max": 8
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(6—8\\) to Dexterity"
+              },
+              {
+                "tier": 2,
+                "name": "of the Lynx",
+                "reqLevel": 68,
+                "weight": 400,
+                "description": "Added Small Passive Skills also grant: +(4—5) to Dexterity",
+                "tags": [
+                  "Attribute"
+                ],
+                "valueRange": {
+                  "min": 4,
+                  "max": 5
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(4—5\\) to Dexterity"
+              },
+              {
+                "tier": 3,
+                "name": "of the Mongoose",
+                "reqLevel": 1,
+                "weight": 500,
+                "description": "Added Small Passive Skills also grant: +(2—3) to Dexterity",
+                "tags": [
+                  "Attribute"
+                ],
+                "valueRange": {
+                  "min": 2,
+                  "max": 3
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(2—3\\) to Dexterity"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "groupId": "2AfflictionJewelSmallPassivesGrantInt",
+        "groupName": null,
+        "dataGenGroup": "2AfflictionJewelSmallPassivesGrantInt",
+        "modalId": "collapseOnenormal2AfflictionJewelSmallPassivesGrantInt",
+        "totalWeight": 1200,
+        "modifiers": [
+          {
+            "modId": "added_small_passive_skills_also_grant_to_intelligence",
+            "baseDescription": "Added Small Passive Skills also grant: # to Intelligence",
+            "tiers": [
+              {
+                "tier": 1,
+                "name": "of the Prodigy",
+                "reqLevel": 84,
+                "weight": 300,
+                "description": "Added Small Passive Skills also grant: +(6—8) to Intelligence",
+                "tags": [
+                  "Attribute"
+                ],
+                "valueRange": {
+                  "min": 6,
+                  "max": 8
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(6—8\\) to Intelligence"
+              },
+              {
+                "tier": 2,
+                "name": "of the Student",
+                "reqLevel": 68,
+                "weight": 400,
+                "description": "Added Small Passive Skills also grant: +(4—5) to Intelligence",
+                "tags": [
+                  "Attribute"
+                ],
+                "valueRange": {
+                  "min": 4,
+                  "max": 5
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(4—5\\) to Intelligence"
+              },
+              {
+                "tier": 3,
+                "name": "of the Pupil",
+                "reqLevel": 1,
+                "weight": 500,
+                "description": "Added Small Passive Skills also grant: +(2—3) to Intelligence",
+                "tags": [
+                  "Attribute"
+                ],
+                "valueRange": {
+                  "min": 2,
+                  "max": 3
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(2—3\\) to Intelligence"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "groupId": "2AfflictionJewelSmallPassivesGrantAttributes",
+        "groupName": null,
+        "dataGenGroup": "2AfflictionJewelSmallPassivesGrantAttributes",
+        "modalId": "collapseOnenormal2AfflictionJewelSmallPassivesGrantAttributes",
+        "totalWeight": 1200,
+        "modifiers": [
+          {
+            "modId": "added_small_passive_skills_also_grant_to_all_attributes",
+            "baseDescription": "Added Small Passive Skills also grant: +2 to All Attributes",
+            "tiers": [
+              {
+                "tier": 1,
+                "name": "of the Meteor",
+                "reqLevel": 84,
+                "weight": 300,
+                "description": "Added Small Passive Skills also grant: +4 to All Attributes",
+                "tags": [
+                  "Attribute"
+                ],
+                "valueRange": {
+                  "min": 4,
+                  "max": 4
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+4 to All Attributes"
+              },
+              {
+                "tier": 2,
+                "name": "of the Sky",
+                "reqLevel": 68,
+                "weight": 400,
+                "description": "Added Small Passive Skills also grant: +3 to All Attributes",
+                "tags": [
+                  "Attribute"
+                ],
+                "valueRange": {
+                  "min": 3,
+                  "max": 3
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+3 to All Attributes"
+              },
+              {
+                "tier": 3,
+                "name": "of the Cloud",
+                "reqLevel": 1,
+                "weight": 500,
+                "description": "Added Small Passive Skills also grant: +2 to All Attributes",
+                "tags": [
+                  "Attribute"
+                ],
+                "valueRange": {
+                  "min": 2,
+                  "max": 2
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+2 to All Attributes"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "groupId": "2AfflictionJewelSmallPassivesGrantManaRegen",
+        "groupName": null,
+        "dataGenGroup": "2AfflictionJewelSmallPassivesGrantManaRegen",
+        "modalId": "collapseOnenormal2AfflictionJewelSmallPassivesGrantManaRegen",
+        "totalWeight": 1200,
+        "modifiers": [
+          {
+            "modId": "added_small_passive_skills_also_grant_increased_mana_regeneration_rate",
+            "baseDescription": "Added Small Passive Skills also grant: 4% increased Mana Regeneration Rate",
+            "tiers": [
+              {
+                "tier": 1,
+                "name": "of Elation",
+                "reqLevel": 84,
+                "weight": 300,
+                "description": "Added Small Passive Skills also grant: 6% increased Mana Regeneration Rate",
+                "tags": [
+                  "Mana"
+                ],
+                "valueRange": {
+                  "min": 6,
+                  "max": 6
+                },
+                "patternString": "Added Small Passive Skills also grant: 6% increased Mana Regeneration Rate"
+              },
+              {
+                "tier": 2,
+                "name": "of Joy",
+                "reqLevel": 68,
+                "weight": 400,
+                "description": "Added Small Passive Skills also grant: 5% increased Mana Regeneration Rate",
+                "tags": [
+                  "Mana"
+                ],
+                "valueRange": {
+                  "min": 5,
+                  "max": 5
+                },
+                "patternString": "Added Small Passive Skills also grant: 5% increased Mana Regeneration Rate"
+              },
+              {
+                "tier": 3,
+                "name": "of Excitement",
+                "reqLevel": 1,
+                "weight": 500,
+                "description": "Added Small Passive Skills also grant: 4% increased Mana Regeneration Rate",
+                "tags": [
+                  "Mana"
+                ],
+                "valueRange": {
+                  "min": 4,
+                  "max": 4
+                },
+                "patternString": "Added Small Passive Skills also grant: 4% increased Mana Regeneration Rate"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "groupId": "2AfflictionJewelSmallPassivesGrantLifeRegen",
+        "groupName": null,
+        "dataGenGroup": "2AfflictionJewelSmallPassivesGrantLifeRegen",
+        "modalId": "collapseOnenormal2AfflictionJewelSmallPassivesGrantLifeRegen",
+        "totalWeight": 1200,
+        "modifiers": [
+          {
+            "modId": "added_small_passive_skills_also_grant_regenerate_of_life_per_second",
+            "baseDescription": "Added Small Passive Skills also grant: Regenerate 0.1% of Life per Second",
+            "tiers": [
+              {
+                "tier": 1,
+                "name": "of the Flatworm",
+                "reqLevel": 84,
+                "weight": 300,
+                "description": "Added Small Passive Skills also grant: Regenerate 0.2% of Life per Second",
+                "tags": [
+                  "Life"
+                ],
+                "valueRange": {
+                  "min": 0,
+                  "max": 0
+                },
+                "patternString": "Added Small Passive Skills also grant: Regenerate 0\\.2% of Life per Second"
+              },
+              {
+                "tier": 2,
+                "name": "of the Lizard",
+                "reqLevel": 68,
+                "weight": 400,
+                "description": "Added Small Passive Skills also grant: Regenerate 0.15% of Life per Second",
+                "tags": [
+                  "Life"
+                ],
+                "valueRange": {
+                  "min": 0,
+                  "max": 0
+                },
+                "patternString": "Added Small Passive Skills also grant: Regenerate 0\\.15% of Life per Second"
+              },
+              {
+                "tier": 3,
+                "name": "of the Newt",
+                "reqLevel": 1,
+                "weight": 500,
+                "description": "Added Small Passive Skills also grant: Regenerate 0.1% of Life per Second",
+                "tags": [
+                  "Life"
+                ],
+                "valueRange": {
+                  "min": 0,
+                  "max": 0
+                },
+                "patternString": "Added Small Passive Skills also grant: Regenerate 0\\.1% of Life per Second"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "groupId": "2AfflictionJewelSmallPassivesGrantFireRes",
+        "groupName": null,
+        "dataGenGroup": "2AfflictionJewelSmallPassivesGrantFireRes",
+        "modalId": "collapseOnenormal2AfflictionJewelSmallPassivesGrantFireRes",
+        "totalWeight": 1200,
+        "modifiers": [
+          {
+            "modId": "added_small_passive_skills_also_grant_to_fire_resistance",
+            "baseDescription": "Added Small Passive Skills also grant: #% to Fire Resistance ,,",
+            "tiers": [
+              {
+                "tier": 1,
+                "name": "of the Drake",
+                "reqLevel": 84,
+                "weight": 300,
+                "description": "Added Small Passive Skills also grant: +(6—7)% to Fire Resistance ,,",
+                "tags": [
+                  "Elemental",
+                  "Fire",
+                  "Resistance"
+                ],
+                "valueRange": {
+                  "min": 6,
+                  "max": 7
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(6—7\\)% to Fire Resistance ,,"
+              },
+              {
+                "tier": 2,
+                "name": "of the Salamander",
+                "reqLevel": 68,
+                "weight": 400,
+                "description": "Added Small Passive Skills also grant: +(4—5)% to Fire Resistance ,,",
+                "tags": [
+                  "Elemental",
+                  "Fire",
+                  "Resistance"
+                ],
+                "valueRange": {
+                  "min": 4,
+                  "max": 5
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(4—5\\)% to Fire Resistance ,,"
+              },
+              {
+                "tier": 3,
+                "name": "of the Whelpling",
+                "reqLevel": 1,
+                "weight": 500,
+                "description": "Added Small Passive Skills also grant: +(2—3)% to Fire Resistance ,,",
+                "tags": [
+                  "Elemental",
+                  "Fire",
+                  "Resistance"
+                ],
+                "valueRange": {
+                  "min": 2,
+                  "max": 3
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(2—3\\)% to Fire Resistance ,,"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "groupId": "2AfflictionJewelSmallPassivesGrantColdRes",
+        "groupName": null,
+        "dataGenGroup": "2AfflictionJewelSmallPassivesGrantColdRes",
+        "modalId": "collapseOnenormal2AfflictionJewelSmallPassivesGrantColdRes",
+        "totalWeight": 1200,
+        "modifiers": [
+          {
+            "modId": "added_small_passive_skills_also_grant_to_cold_resistance",
+            "baseDescription": "Added Small Passive Skills also grant: #% to Cold Resistance ,,",
+            "tiers": [
+              {
+                "tier": 1,
+                "name": "of the Penguin",
+                "reqLevel": 84,
+                "weight": 300,
+                "description": "Added Small Passive Skills also grant: +(6—7)% to Cold Resistance ,,",
+                "tags": [
+                  "Elemental",
+                  "Cold",
+                  "Resistance"
+                ],
+                "valueRange": {
+                  "min": 6,
+                  "max": 7
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(6—7\\)% to Cold Resistance ,,"
+              },
+              {
+                "tier": 2,
+                "name": "of the Seal",
+                "reqLevel": 68,
+                "weight": 400,
+                "description": "Added Small Passive Skills also grant: +(4—5)% to Cold Resistance ,,",
+                "tags": [
+                  "Elemental",
+                  "Cold",
+                  "Resistance"
+                ],
+                "valueRange": {
+                  "min": 4,
+                  "max": 5
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(4—5\\)% to Cold Resistance ,,"
+              },
+              {
+                "tier": 3,
+                "name": "of the Inuit",
+                "reqLevel": 1,
+                "weight": 500,
+                "description": "Added Small Passive Skills also grant: +(2—3)% to Cold Resistance ,,",
+                "tags": [
+                  "Elemental",
+                  "Cold",
+                  "Resistance"
+                ],
+                "valueRange": {
+                  "min": 2,
+                  "max": 3
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(2—3\\)% to Cold Resistance ,,"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "groupId": "2AfflictionJewelSmallPassivesGrantLightningRes",
+        "groupName": null,
+        "dataGenGroup": "2AfflictionJewelSmallPassivesGrantLightningRes",
+        "modalId": "collapseOnenormal2AfflictionJewelSmallPassivesGrantLightningRes",
+        "totalWeight": 1200,
+        "modifiers": [
+          {
+            "modId": "added_small_passive_skills_also_grant_to_lightning_resistance",
+            "baseDescription": "Added Small Passive Skills also grant: #% to Lightning Resistance ,,",
+            "tiers": [
+              {
+                "tier": 1,
+                "name": "of the Storm",
+                "reqLevel": 84,
+                "weight": 300,
+                "description": "Added Small Passive Skills also grant: +(6—7)% to Lightning Resistance ,,",
+                "tags": [
+                  "Elemental",
+                  "Lightning",
+                  "Resistance"
+                ],
+                "valueRange": {
+                  "min": 6,
+                  "max": 7
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(6—7\\)% to Lightning Resistance ,,"
+              },
+              {
+                "tier": 2,
+                "name": "of the Squall",
+                "reqLevel": 68,
+                "weight": 400,
+                "description": "Added Small Passive Skills also grant: +(4—5)% to Lightning Resistance ,,",
+                "tags": [
+                  "Elemental",
+                  "Lightning",
+                  "Resistance"
+                ],
+                "valueRange": {
+                  "min": 4,
+                  "max": 5
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(4—5\\)% to Lightning Resistance ,,"
+              },
+              {
+                "tier": 3,
+                "name": "of the Cloud",
+                "reqLevel": 1,
+                "weight": 500,
+                "description": "Added Small Passive Skills also grant: +(2—3)% to Lightning Resistance ,,",
+                "tags": [
+                  "Elemental",
+                  "Lightning",
+                  "Resistance"
+                ],
+                "valueRange": {
+                  "min": 2,
+                  "max": 3
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+\\(2—3\\)% to Lightning Resistance ,,"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "groupId": "2AfflictionJewelSmallPassivesGrantElementalRes",
+        "groupName": null,
+        "dataGenGroup": "2AfflictionJewelSmallPassivesGrantElementalRes",
+        "modalId": "collapseOnenormal2AfflictionJewelSmallPassivesGrantElementalRes",
+        "totalWeight": 1200,
+        "modifiers": [
+          {
+            "modId": "added_small_passive_skills_also_grant_to_all_elemental_resistances",
+            "baseDescription": "Added Small Passive Skills also grant: +2% to all Elemental Resistances ,",
+            "tiers": [
+              {
+                "tier": 1,
+                "name": "of the Kaleidoscope",
+                "reqLevel": 84,
+                "weight": 300,
+                "description": "Added Small Passive Skills also grant: +4% to all Elemental Resistances ,",
+                "tags": [
+                  "Elemental",
+                  "Resistance"
+                ],
+                "valueRange": {
+                  "min": 4,
+                  "max": 4
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+4% to all Elemental Resistances ,"
+              },
+              {
+                "tier": 2,
+                "name": "of the Prism",
+                "reqLevel": 68,
+                "weight": 400,
+                "description": "Added Small Passive Skills also grant: +3% to all Elemental Resistances ,",
+                "tags": [
+                  "Elemental",
+                  "Resistance"
+                ],
+                "valueRange": {
+                  "min": 3,
+                  "max": 3
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+3% to all Elemental Resistances ,"
+              },
+              {
+                "tier": 3,
+                "name": "of the Crystal",
+                "reqLevel": 1,
+                "weight": 500,
+                "description": "Added Small Passive Skills also grant: +2% to all Elemental Resistances ,",
+                "tags": [
+                  "Elemental",
+                  "Resistance"
+                ],
+                "valueRange": {
+                  "min": 2,
+                  "max": 2
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+2% to all Elemental Resistances ,"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "groupId": "2AfflictionJewelSmallPassivesGrantChaosRes",
+        "groupName": null,
+        "dataGenGroup": "2AfflictionJewelSmallPassivesGrantChaosRes",
+        "modalId": "collapseOnenormal2AfflictionJewelSmallPassivesGrantChaosRes",
+        "totalWeight": 1200,
+        "modifiers": [
+          {
+            "modId": "added_small_passive_skills_also_grant_to_chaos_resistance",
+            "baseDescription": "Added Small Passive Skills also grant: +3% to Chaos Resistance ,",
+            "tiers": [
+              {
+                "tier": 1,
+                "name": "of Eviction",
+                "reqLevel": 84,
+                "weight": 300,
+                "description": "Added Small Passive Skills also grant: +5% to Chaos Resistance ,",
+                "tags": [
+                  "Chaos",
+                  "Resistance"
+                ],
+                "valueRange": {
+                  "min": 5,
+                  "max": 5
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+5% to Chaos Resistance ,"
+              },
+              {
+                "tier": 2,
+                "name": "of Banishment",
+                "reqLevel": 68,
+                "weight": 400,
+                "description": "Added Small Passive Skills also grant: +4% to Chaos Resistance ,",
+                "tags": [
+                  "Chaos",
+                  "Resistance"
+                ],
+                "valueRange": {
+                  "min": 4,
+                  "max": 4
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+4% to Chaos Resistance ,"
+              },
+              {
+                "tier": 3,
+                "name": "of the Lost",
+                "reqLevel": 1,
+                "weight": 500,
+                "description": "Added Small Passive Skills also grant: +3% to Chaos Resistance ,",
+                "tags": [
+                  "Chaos",
+                  "Resistance"
+                ],
+                "valueRange": {
+                  "min": 3,
+                  "max": 3
+                },
+                "patternString": "Added Small Passive Skills also grant: \\+3% to Chaos Resistance ,"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "groupId": "2AfflictionJewelSmallPassivesGrantAttackSpeed",
+        "groupName": null,
+        "dataGenGroup": "2AfflictionJewelSmallPassivesGrantAttackSpeed",
+        "modalId": "collapseOnenormal2AfflictionJewelSmallPassivesGrantAttackSpeed",
+        "totalWeight": 950,
+        "modifiers": [
+          {
+            "modId": "added_small_passive_skills_also_grant_increased_attack_speed",
+            "baseDescription": "Added Small Passive Skills also grant: 1% increased Attack Speed ,",
+            "tiers": [
+              {
+                "tier": 1,
+                "name": "of Mastery",
+                "reqLevel": 84,
+                "weight": 250,
+                "description": "Added Small Passive Skills also grant: 3% increased Attack Speed ,",
+                "tags": [
+                  "Attack",
+                  "Speed"
+                ],
+                "valueRange": {
+                  "min": 3,
+                  "max": 3
+                },
+                "patternString": "Added Small Passive Skills also grant: 3% increased Attack Speed ,"
+              },
+              {
+                "tier": 2,
+                "name": "of Ease",
+                "reqLevel": 68,
+                "weight": 350,
+                "description": "Added Small Passive Skills also grant: 2% increased Attack Speed ,",
+                "tags": [
+                  "Attack",
+                  "Speed"
+                ],
+                "valueRange": {
+                  "min": 2,
+                  "max": 2
+                },
+                "patternString": "Added Small Passive Skills also grant: 2% increased Attack Speed ,"
+              },
+              {
+                "tier": 3,
+                "name": "of Skill",
+                "reqLevel": 1,
+                "weight": 350,
+                "description": "Added Small Passive Skills also grant: 1% increased Attack Speed ,",
+                "tags": [
+                  "Attack",
+                  "Speed"
+                ],
+                "valueRange": {
+                  "min": 1,
+                  "max": 1
+                },
+                "patternString": "Added Small Passive Skills also grant: 1% increased Attack Speed ,"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,719 @@
+{
+  "BaseRequirements": {
+    "ItemLevelMin": 75,
+    "ItemLevelMax": 83,
+    "PassiveSkillsMin": 8,
+    "PassiveSkillsMax": 8,
+    "EnchantTypeIds": [
+      2
+    ]
+  },
+  "AugSettings": {
+    "Conditions": [
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_weight_advantage",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_devastator",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_fuel_the_fight",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_feed_the_fury",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_smite_the_weak",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_heavy_hitter",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_martial_prowess",
+            "Tier": "1"
+          }
+        ]
+      }
+    ]
+  },
+  "AlchemySettings": {
+    "Conditions": []
+  },
+  "AlterationSettings": {
+    "Conditions": []
+  },
+  "RegalSettings": {
+    "Conditions": [
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_martial_prowess",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_weight_advantage",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_martial_prowess",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_fuel_the_fight",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_martial_prowess",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_feed_the_fury",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_martial_prowess",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_devastator",
+            "Tier": "1"
+          }
+        ]
+      }
+    ]
+  },
+  "ExaltedSettings": {
+    "Conditions": [
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_martial_prowess",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_weight_advantage",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_martial_prowess",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_devastator",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_martial_prowess",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_fuel_the_fight",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_martial_prowess",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_feed_the_fury",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          }
+        ]
+      }
+    ]
+  },
+  "ChaosSettings": {
+    "Conditions": []
+  },
+  "AnnulmentSettings": {
+    "Conditions": [
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_smite_the_weak",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_heavy_hitter",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_martial_prowess",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_weight_advantage",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_devastator",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_devastator",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_feed_the_fury",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_fuel_the_fight",
+            "Tier": "1"
+          }
+        ]
+      }
+    ]
+  },
+  "ScouringSettings": {
+    "Conditions": []
+  },
+  "WisdomScrollSettings": {
+    "Conditions": []
+  },
+  "CompletedSettings": {
+    "Conditions": [
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_expansive_might",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_devastator",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_heavy_hitter",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_devastator",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_martial_prowess",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_devastator",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_smite_the_weak",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_devastator",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_heavy_hitter",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_feed_the_fury",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_smite_the_weak",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_feed_the_fury",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_heavy_hitter",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_feed_the_fury",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_martial_prowess",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_fuel_the_fight",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_smite_the_weak",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_fuel_the_fight",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_heavy_hitter",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_fuel_the_fight",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_martial_prowess",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_weight_advantage",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_martial_prowess",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_expansive_might",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_martial_prowess",
+            "Tier": "1"
+          }
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_expansive_might",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_heavy_hitter",
+            "Tier": "1"
+          }
+        ]
+      }
+    ]
+  },
+  "ExaltedSuffixFreeIfNoGroupSuffix": true,
+  "ExaltedBlockingSuffixNotables": [
+    "added_passive_skill_is_smite_the_weak",
+    "added_passive_skill_is_martial_prowess",
+    "added_passive_skill_is_heavy_hitter"
+  ],
+  "ForceChaos": false,
+  "ForceAugBeforeRegal": true,
+  "ForceAugmentation": false,
+  "ForceAlchemy": false,
+  "ForceExalted": false,
+  "ForceAlteration": false,
+  "MaxClustersPerType": 20,
+  "RegalAllflame": {
+    "Conditions": [
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_martial_prowess",
+            "Tier": "1"
+          }
+        ],
+        "AllflameOutcomePriority": [
+          "added_passive_skill_is_devastator",
+          "added_passive_skill_is_feed_the_fury",
+          "added_passive_skill_is_weight_advantage",
+          "added_passive_skill_is_fuel_the_fight",
+          "added_passive_skill_is_expansive_might",
+          "any suffix"
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_smite_the_weak",
+            "Tier": "1"
+          }
+        ],
+        "AllflameOutcomePriority": [
+          "added_passive_skill_is_devastator",
+          "added_passive_skill_is_feed_the_fury",
+          "added_passive_skill_is_fuel_the_fight",
+          "added_passive_skill_is_weight_advantage",
+          "added_passive_skill_is_expansive_might",
+          "any suffix"
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_heavy_hitter",
+            "Tier": "1"
+          }
+        ],
+        "AllflameOutcomePriority": [
+          "added_passive_skill_is_devastator",
+          "added_passive_skill_is_feed_the_fury",
+          "added_passive_skill_is_fuel_the_fight",
+          "any suffix"
+        ]
+      }
+    ]
+  },
+  "ExileAllflame": {
+    "Conditions": [
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_smite_the_weak",
+            "Tier": "1"
+          }
+        ],
+        "AllflameOutcomePriority": [
+          "added_passive_skill_is_devastator",
+          "added_passive_skill_is_feed_the_fury",
+          "added_passive_skill_is_fuel_the_fight",
+          "any suffix"
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_heavy_hitter",
+            "Tier": "1"
+          }
+        ],
+        "AllflameOutcomePriority": [
+          "added_passive_skill_is_devastator",
+          "added_passive_skill_is_feed_the_fury",
+          "added_passive_skill_is_fuel_the_fight",
+          "any suffix"
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_martial_prowess",
+            "Tier": "1"
+          }
+        ],
+        "AllflameOutcomePriority": [
+          "added_passive_skill_is_overlord",
+          "added_passive_skill_is_feed_the_fury",
+          "added_passive_skill_is_weight_advantage",
+          "added_passive_skill_is_expansive_might",
+          "added_passive_skill_is_fuel_the_fight",
+          "any suffix"
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_weight_advantage",
+            "Tier": "1"
+          }
+        ],
+        "AllflameOutcomePriority": [
+          "added_passive_skill_is_martial_prowess",
+          "any suffix"
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_devastator",
+            "Tier": "1"
+          }
+        ],
+        "AllflameOutcomePriority": [
+          "added_passive_skill_is_martial_prowess",
+          "added_passive_skill_is_smite_the_weak",
+          "added_passive_skill_is_heavy_hitter",
+          "any suffix"
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_feed_the_fury",
+            "Tier": "1"
+          }
+        ],
+        "AllflameOutcomePriority": [
+          "added_passive_skill_is_martial_prowess",
+          "added_passive_skill_is_heavy_hitter",
+          "added_passive_skill_is_smite_the_weak",
+          "any suffix"
+        ]
+      },
+      {
+        "Mods": [
+          {
+            "ModId": "added_passive_skill_is_overlord",
+            "Tier": "1"
+          },
+          {
+            "ModId": "added_passive_skill_is_fuel_the_fight",
+            "Tier": "1"
+          }
+        ],
+        "AllflameOutcomePriority": [
+          "added_passive_skill_is_smite_the_weak",
+          "added_passive_skill_is_martial_prowess",
+          "added_passive_skill_is_heavy_hitter",
+          "any suffix"
+        ]
+      }
+    ]
+  }
+}
