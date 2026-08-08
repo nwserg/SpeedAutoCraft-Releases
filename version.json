@@ -1,7 +1,7 @@
 {
-    "version":  "2026.08.08-1939",
-    "commit":  "0e8160c",
-    "builtUtc":  "2026-08-08T12:39:43.4760316Z",
+    "version":  "2026.08.08-2221",
+    "commit":  "f65d92d",
+    "builtUtc":  "2026-08-08T15:21:12.4897959Z",
     "notes":  "",
     "localBuild":  false,
     "files":  [
@@ -12,8 +12,8 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "B7DA9B95E746A8D7FA5C1762413B1BB0C7C066BCCAB07F1694D7AD236EF53789",
-                      "size":  230400
+                      "sha256":  "47687128FA0FC126B72F8A4CE711579F054AA17889B2380376692A19143806DC",
+                      "size":  236032
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/CraftConfig.json",
@@ -32,8 +32,8 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "D831284FF10BC343FC379C8FEB6AC4D9C03F13C9D7C42379F3A9868180023982",
-                      "size":  130560
+                      "sha256":  "2859F3F8C0C42F9C716B9B7FEE72E6454FC277D6F134A07D354EA01607CBE52C",
+                      "size":  144384
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/CraftConfig.json",
@@ -52,8 +52,8 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "5CA7EA31F588868E46AA7D6F19D2B690BF0BFD8B8E06BAF4B48711FF5A7749E1",
-                      "size":  218112
+                      "sha256":  "108222BB439FB680C51EFB6BC8BBF937890381149C7789CD376D974EE1BEF359",
+                      "size":  229376
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/ModDatabase.json",
@@ -67,8 +67,8 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "E237D5AB9F64A82B428B4FB57927224DF503950E125CAFAD48FDD64407331CDE",
-                      "size":  97792
+                      "sha256":  "06B10260E0F99DD49C4768982199B8F7083B39660C55A607825824D64D9A3A94",
+                      "size":  50688
                   },
                   {
                       "path":  "Compiled/PricerPlugin/mod_mapping.json",
@@ -82,7 +82,7 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "3FD962B0124532ED84926CF69A239BAF722E002B8AF1C2CB6E2FACFC7F5CBE60",
+                      "sha256":  "1D8E2A1172D42E0B69920EF25782F74B393256A5F2067E86298D488C2D11CDD2",
                       "size":  66560
                   }
               ]
