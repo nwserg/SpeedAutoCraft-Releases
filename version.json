@@ -1,7 +1,7 @@
 {
-    "version":  "2026.08.08-2241",
+    "version":  "2026.08.08-2328",
     "commit":  "f65d92d",
-    "builtUtc":  "2026-08-08T15:41:25.9180766Z",
+    "builtUtc":  "2026-08-08T16:28:04.1017473Z",
     "notes":  "",
     "localBuild":  false,
     "files":  [
@@ -12,8 +12,8 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "47687128FA0FC126B72F8A4CE711579F054AA17889B2380376692A19143806DC",
-                      "size":  236032
+                      "sha256":  "B9C32E5F5536589B4D4ED727F6ACB2126894D33CC83B242B9D1209CD6E611C84",
+                      "size":  236544
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/CraftConfig.json",
@@ -32,7 +32,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "2859F3F8C0C42F9C716B9B7FEE72E6454FC277D6F134A07D354EA01607CBE52C",
+                      "sha256":  "217A1FB20406B9D28F624EAA2746E72EC17E5A34195A781CD6928CCB72A9D95F",
                       "size":  144384
                   },
                   {
@@ -52,13 +52,13 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "108222BB439FB680C51EFB6BC8BBF937890381149C7789CD376D974EE1BEF359",
-                      "size":  229376
+                      "sha256":  "720BB71EB664B64D11CB57F97008F552B12C4988FD2AD873A8B15FAB4E1A2CA8",
+                      "size":  231424
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/ModDatabase.json",
-                      "sha256":  "063E95F9E52C1F13CBB716105E6A12295D8D8ADB21EBE6A50FE25EB51F695D7C",
-                      "size":  54673
+                      "sha256":  "ACDB084083EF151E15687D6E8993B48D11124D987ACFD90EA1F5CB53120B5293",
+                      "size":  54684
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.deps.json",

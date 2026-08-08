@@ -1,16 +1,16 @@
 {
-  "clusterName": "Large Cluster Jewel Affliction Axe And Sword Damage",
-  "url": "https://poedb.tw/us/Large_Cluster_Jewel_affliction_axe_and_sword_damage",
-  "parsedAt": "2026-07-19T04:44:15.296Z",
+  "clusterName": "Large Cluster Jewel Affliction Mace And Staff Damage",
+  "url": "https://poedb.tw/us/Large_Cluster_Jewel_affliction_mace_and_staff_damage",
+  "parsedAt": "2026-07-30T18:45:11.558Z",
   "parsingMethod": "Modal-table extraction v4.0",
-  "processingTimeMs": 143,
+  "processingTimeMs": 146,
   "stats": {
     "totalGroups": 30,
     "totalModifiers": 32,
     "totalTiers": 270,
     "prefixGroups": 17,
     "suffixGroups": 13,
-    "processingTime": 143
+    "processingTime": 146
   },
   "modifierGroups": {
     "prefixGroups": [
@@ -44,85 +44,85 @@
         ]
       },
       {
-        "groupId": "1AfflictionNotableBloodscent",
+        "groupId": "1AfflictionNotableOverlord",
         "groupName": null,
-        "dataGenGroup": "1AfflictionNotableBloodscent",
-        "modalId": "collapseOnenormal1AfflictionNotableBloodscent",
+        "dataGenGroup": "1AfflictionNotableOverlord",
+        "modalId": "collapseOnenormal1AfflictionNotableOverlord",
         "totalWeight": 47,
         "modifiers": [
           {
-            "modId": "added_passive_skill_is_bloodscent",
-            "baseDescription": "1 Added Passive Skill is Bloodscent",
+            "modId": "added_passive_skill_is_overlord",
+            "baseDescription": "1 Added Passive Skill is Overlord ,",
             "tiers": [
               {
                 "tier": 1,
                 "name": "Notable",
                 "reqLevel": 75,
                 "weight": 47,
-                "description": "1 Added Passive Skill is Bloodscent",
+                "description": "1 Added Passive Skill is Overlord ,",
                 "tags": [
+                  "Damage",
                   "Attack"
                 ],
                 "valueRange": null,
-                "patternString": "1 Added Passive Skill is Bloodscent"
+                "patternString": "1 Added Passive Skill is Overlord ,"
               }
             ]
           }
         ]
       },
       {
-        "groupId": "1AfflictionNotableRunThrough",
+        "groupId": "1AfflictionNotableExpansiveMight",
         "groupName": null,
-        "dataGenGroup": "1AfflictionNotableRunThrough",
-        "modalId": "collapseOnenormal1AfflictionNotableRunThrough",
+        "dataGenGroup": "1AfflictionNotableExpansiveMight",
+        "modalId": "collapseOnenormal1AfflictionNotableExpansiveMight",
         "totalWeight": 141,
         "modifiers": [
           {
-            "modId": "added_passive_skill_is_run_through",
-            "baseDescription": "1 Added Passive Skill is Run Through ,,",
+            "modId": "added_passive_skill_is_expansive_might",
+            "baseDescription": "1 Added Passive Skill is Expansive Might ,",
             "tiers": [
               {
                 "tier": 1,
                 "name": "Notable",
                 "reqLevel": 68,
                 "weight": 141,
-                "description": "1 Added Passive Skill is Run Through ,,",
+                "description": "1 Added Passive Skill is Expansive Might ,",
                 "tags": [
                   "Damage",
-                  "Physical",
                   "Attack"
                 ],
                 "valueRange": null,
-                "patternString": "1 Added Passive Skill is Run Through ,,"
+                "patternString": "1 Added Passive Skill is Expansive Might ,"
               }
             ]
           }
         ]
       },
       {
-        "groupId": "1AfflictionNotableWoundAggravation",
+        "groupId": "1AfflictionNotableWeightAdvantage",
         "groupName": null,
-        "dataGenGroup": "1AfflictionNotableWoundAggravation",
-        "modalId": "collapseOnenormal1AfflictionNotableWoundAggravation",
+        "dataGenGroup": "1AfflictionNotableWeightAdvantage",
+        "modalId": "collapseOnenormal1AfflictionNotableWeightAdvantage",
         "totalWeight": 750,
         "modifiers": [
           {
-            "modId": "added_passive_skill_is_wound_aggravation",
-            "baseDescription": "1 Added Passive Skill is Wound Aggravation ,,",
+            "modId": "added_passive_skill_is_weight_advantage",
+            "baseDescription": "1 Added Passive Skill is Weight Advantage ,,",
             "tiers": [
               {
                 "tier": 1,
                 "name": "Notable",
                 "reqLevel": 1,
                 "weight": 750,
-                "description": "1 Added Passive Skill is Wound Aggravation ,,",
+                "description": "1 Added Passive Skill is Weight Advantage ,,",
                 "tags": [
                   "Damage",
-                  "Physical",
-                  "Attack"
+                  "Attack",
+                  "Attribute"
                 ],
                 "valueRange": null,
-                "patternString": "1 Added Passive Skill is Wound Aggravation ,,"
+                "patternString": "1 Added Passive Skill is Weight Advantage ,,"
               }
             ]
           }
