@@ -1,6 +1,6 @@
 SpeedAutoCraft plugins - build info
 
-Built           : 2026-08-15 07:44
+Built           : 2026-08-15 08:56
 Git commit      : c27fc59
 
 Compiled against this ExileCore build:

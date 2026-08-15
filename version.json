@@ -1,7 +1,7 @@
 {
-    "version":  "2026.08.15-0744",
+    "version":  "2026.08.15-0856",
     "commit":  "c27fc59",
-    "builtUtc":  "2026-08-15T00:44:12.3011118Z",
+    "builtUtc":  "2026-08-15T01:56:26.5204495Z",
     "notes":  "",
     "localBuild":  false,
     "files":  [
@@ -52,7 +52,7 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "FAC93CA8A5F38BA3FD7CA39B6678EFBFBDFD28521DD3362B596A15249E91B74A",
+                      "sha256":  "FC97DA926CEC9B54D12E9EC2F88B1901CAAF8D0F17694BF14B0F242DEA7EC919",
                       "size":  411648
                   },
                   {
