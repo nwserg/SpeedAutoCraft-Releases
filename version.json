@@ -1,7 +1,7 @@
 {
-    "version":  "2026.10.04-2340",
+    "version":  "2026.10.05-0006",
     "commit":  "531f265",
-    "builtUtc":  "2026-10-04T16:40:48.9917653Z",
+    "builtUtc":  "2026-10-04T17:06:59.9562888Z",
     "notes":  "",
     "localBuild":  false,
     "files":  [
@@ -59,6 +59,11 @@
                       "path":  "Compiled/PricerPlugin/trade_stats.json",
                       "sha256":  "A45B8C6F80987C1EC045A3997534B9111F17DDCD0F5E47630CE5D21BAF769883",
                       "size":  106521
+                  },
+                  {
+                      "path":  "Core/SpeedAutoCraft.Core.dll",
+                      "sha256":  "3913D9917F5122934D958259ABA7C172263A824C451EB3D22E21AEE5683861BA",
+                      "size":  235520
                   }
               ]
 }
