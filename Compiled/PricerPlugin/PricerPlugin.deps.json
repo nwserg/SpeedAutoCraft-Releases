@@ -20,34 +20,40 @@
         "runtime": {
           "lib/net6.0/ImGui.NET.dll": {
             "assemblyVersion": "1.90.0.1",
-            "fileVersion": "1.90.0.1"
+            "fileVersion": "1.90.0.1",
+            "localPath": "ImGui.NET.dll"
           }
         },
         "runtimeTargets": {
           "runtimes/linux-x64/native/libcimgui.so": {
             "rid": "linux-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "0.0.0.0",
+            "localPath": "runtimes/linux-x64/native/libcimgui.so"
           },
           "runtimes/osx/native/libcimgui.dylib": {
             "rid": "osx",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "0.0.0.0",
+            "localPath": "runtimes/osx/native/libcimgui.dylib"
           },
           "runtimes/win-arm64/native/cimgui.dll": {
             "rid": "win-arm64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "0.0.0.0",
+            "localPath": "runtimes/win-arm64/native/cimgui.dll"
           },
           "runtimes/win-x64/native/cimgui.dll": {
             "rid": "win-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "0.0.0.0",
+            "localPath": "runtimes/win-x64/native/cimgui.dll"
           },
           "runtimes/win-x86/native/cimgui.dll": {
             "rid": "win-x86",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "0.0.0.0",
+            "localPath": "runtimes/win-x86/native/cimgui.dll"
           }
         }
       },
@@ -55,7 +61,8 @@
         "runtime": {
           "lib/net6.0/Newtonsoft.Json.dll": {
             "assemblyVersion": "13.0.0.0",
-            "fileVersion": "13.0.3.27908"
+            "fileVersion": "13.0.3.27908",
+            "localPath": "Newtonsoft.Json.dll"
           }
         }
       },
@@ -63,7 +70,8 @@
         "runtime": {
           "lib/netstandard1.1/SharpDX.dll": {
             "assemblyVersion": "4.2.0.0",
-            "fileVersion": "4.2.0.0"
+            "fileVersion": "4.2.0.0",
+            "localPath": "SharpDX.dll"
           }
         }
       },
@@ -74,7 +82,8 @@
         "runtime": {
           "lib/netstandard1.1/SharpDX.Mathematics.dll": {
             "assemblyVersion": "4.2.0.0",
-            "fileVersion": "4.2.0.0"
+            "fileVersion": "4.2.0.0",
+            "localPath": "SharpDX.Mathematics.dll"
           }
         }
       }
