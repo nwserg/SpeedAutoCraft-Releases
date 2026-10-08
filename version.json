@@ -1,7 +1,7 @@
 {
-    "version":  "2026.10.05-0006",
+    "version":  "2026.10.08-2047",
     "commit":  "531f265",
-    "builtUtc":  "2026-10-04T17:06:59.9562888Z",
+    "builtUtc":  "2026-10-08T13:47:41.7772615Z",
     "notes":  "",
     "localBuild":  false,
     "files":  [
@@ -12,8 +12,8 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "A8190C7115360F453F24867A964EAC955AFE65C007FC55B616D6517B3F42E1C2",
-                      "size":  86016
+                      "sha256":  "414A114128C4C35062017CA40956A81BABF3C4404E5BE0BC4E2BCF8E14ABDAB8",
+                      "size":  87040
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.deps.json",
