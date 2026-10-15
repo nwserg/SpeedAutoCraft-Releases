@@ -1,7 +1,7 @@
 {
-    "version":  "2026.10.15-0702",
+    "version":  "2026.10.15-0737",
     "commit":  "874efde",
-    "builtUtc":  "2026-10-15T00:02:58.7234211Z",
+    "builtUtc":  "2026-10-15T00:37:12.8074224Z",
     "notes":  "",
     "localBuild":  false,
     "files":  [
@@ -42,8 +42,8 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "7DE09454B1D9B558CDFD90D9A7DD13C23994E96E23D270DFE5566637856B8A07",
-                      "size":  26112
+                      "sha256":  "382541834275F67B0C3E62FA44DEEBD3C88D711F4D7C286E6C2C33C7B96B0F76",
+                      "size":  26624
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.deps.json",
@@ -62,8 +62,8 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "AE5E0BA8081D08E5338DB02DB7F79A3F837F70C3701B99DD5F0A7989461BA3CE",
-                      "size":  252416
+                      "sha256":  "2F72FE80390996BF6B3BF2903C5E231B3A9695E86F58F87DAD5E1141510A3C66",
+                      "size":  253440
                   }
               ]
 }
