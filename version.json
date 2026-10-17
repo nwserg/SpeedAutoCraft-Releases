@@ -1,7 +1,7 @@
 {
-    "version":  "2026.10.17-1648",
+    "version":  "2026.10.17-1856",
     "commit":  "fff20fa",
-    "builtUtc":  "2026-10-17T09:48:25.9610380Z",
+    "builtUtc":  "2026-10-17T11:56:40.2722016Z",
     "notes":  "",
     "localBuild":  false,
     "files":  [
@@ -47,8 +47,8 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "02A5532D2F715EA6532BF96B6691BC921625FBE257C161F9BF7E9EA0F68056FD",
-                      "size":  24064
+                      "sha256":  "D707BCC5C5885F6DF7471C15489BB381BF858346F151A63954B8F382DA1E339C",
+                      "size":  24576
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.deps.json",
@@ -57,8 +57,8 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "5B2F6A71851A4004A7D2235DD5DFD8CCFEBBD8FB76D2E70FD122718CCC4D6FDE",
-                      "size":  31744
+                      "sha256":  "5B6DA1FC868D09E5A86E9E6C1ACB049A9ED7CB9A4ECEA39B448F133DCA07F588",
+                      "size":  32768
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.deps.json",
@@ -77,8 +77,8 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "2B95F8246FCBEC1D4CBF8B282E242BE730584AAE1957D376419B5279E9A9C322",
-                      "size":  365056
+                      "sha256":  "3760CEEA10EEF31ABCE3FB9DA48F6974886795974E2A2EA27CB175ABD4127FA1",
+                      "size":  372736
                   }
               ]
 }
