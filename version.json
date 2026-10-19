@@ -1,7 +1,7 @@
 {
-    "version":  "2026.10.19-1152",
+    "version":  "2026.10.19-1214",
     "commit":  "24f9d62",
-    "builtUtc":  "2026-10-19T04:52:15.6535490Z",
+    "builtUtc":  "2026-10-19T05:14:46.0908744Z",
     "notes":  "",
     "localBuild":  false,
     "files":  [
@@ -37,8 +37,8 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/BuyConfig.example.json",
-                      "sha256":  "1EA917121B9E0E81140501395DC7259CC4DA39259FFD3D1185D2F5CEB5631DD0",
-                      "size":  1383
+                      "sha256":  "D199F2941EF8EC2B5B5A56B0956A87B6F411F9214919366B427AEF7C494A2483",
+                      "size":  1381
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.deps.json",
