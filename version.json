@@ -1,7 +1,7 @@
 {
-    "version":  "2026.10.19-1237",
+    "version":  "2026.10.19-1411",
     "commit":  "24f9d62",
-    "builtUtc":  "2026-10-19T05:37:26.5945679Z",
+    "builtUtc":  "2026-10-19T07:11:27.2666357Z",
     "notes":  "",
     "localBuild":  false,
     "files":  [
@@ -22,8 +22,8 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "9226F49C3D8C83118F85AA9726CBEDED3E98909EF78BE34361E992532C3F00F5",
-                      "size":  58368
+                      "sha256":  "E1A6F950666298175C03A635835C80E8AC46D4BDA461345CE7282DD71712249A",
+                      "size":  58880
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.deps.json",
@@ -47,8 +47,8 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "0CCF090E52F4A9F1F7CC905798007F1289579BA90F7A0C510778CC0CFC0D34B3",
-                      "size":  46080
+                      "sha256":  "E7DF1F1FB9519885B6D3002E665486439996CB8EB7F9DA8F5B0A56E29B69EF6B",
+                      "size":  62464
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.deps.json",
@@ -57,7 +57,7 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "25DB41D8C7D947B09A9D997A01B76897788DDFEC57D88961B33DB77FFBA904AE",
+                      "sha256":  "E7C5180D993948782C2DC869353A852AE2815CBFA67567B10B2BEEFC738E377C",
                       "size":  32768
                   },
                   {
@@ -77,8 +77,8 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "8010E89FBCCDF2CA76434DFB2098B5DBEB86BF5A360941CB003E5D2DDAD89B94",
-                      "size":  398848
+                      "sha256":  "1A3B96BDE3D1DFFCCC8F057CB0A8F64536A4742FBC5C3BAB395C84566CF24050",
+                      "size":  409600
                   }
               ]
 }
