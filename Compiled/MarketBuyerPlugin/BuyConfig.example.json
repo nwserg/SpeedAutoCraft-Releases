@@ -11,7 +11,7 @@
       "Name": "Large cluster: Cold Damage, 8 passives",
       "Enabled": true,
       "KeepInStock": 10,
-      "MaxPrice": { "Amount": 10, "Currency": "Chaos Orb" },
+      "MaxPrice": { "Amount": 100, "Currency": "Chaos Orb" },
       "MaxFee": 5000,
       "Search": {
         "Options": {
@@ -23,7 +23,7 @@
         "Ranges": {
           "Item Level": { "Min": 75, "Max": 83 },
           "Intangibility": { "Min": 0, "Max": 0 },
-          "Buyout Price": { "Max": 10 }
+          "Buyout Price": { "Max": 100 }
         },
         "Stats": [
           { "Kind": "enchant", "Text": "Added Small Passive Skills grant: 12% increased Cold Damage" },
