@@ -10,7 +10,6 @@
     {
       "Name": "Large cluster: Cold Damage, 8 passives",
       "Enabled": true,
-      "StashTab": "3",
       "KeepInStock": 10,
       "MaxPrice": { "Amount": 10, "Currency": "Chaos Orb" },
       "MaxFee": 5000,
