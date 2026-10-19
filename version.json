@@ -1,7 +1,7 @@
 {
-    "version":  "2026.10.19-1550",
+    "version":  "2026.10.19-1604",
     "commit":  "24f9d62",
-    "builtUtc":  "2026-10-19T08:50:25.0194095Z",
+    "builtUtc":  "2026-10-19T09:04:51.7936023Z",
     "notes":  "",
     "localBuild":  false,
     "files":  [
@@ -77,8 +77,8 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "37C99597E107823B65F2B0612848B7B51255EF31AC3C456C71C5297C9B5A5E08",
-                      "size":  412672
+                      "sha256":  "7397D4719C118A50969AA2D368FA4C6B8ACF02B0CDD68B256E1BF749A6D89AFB",
+                      "size":  413184
                   }
               ]
 }
