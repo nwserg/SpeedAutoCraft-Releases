@@ -1,7 +1,7 @@
 {
-    "version":  "2026.10.20-1009",
+    "version":  "2026.10.20-1029",
     "commit":  "24f9d62",
-    "builtUtc":  "2026-10-20T03:09:35.7922956Z",
+    "builtUtc":  "2026-10-20T03:29:16.8030986Z",
     "notes":  "",
     "localBuild":  false,
     "files":  [
@@ -47,8 +47,8 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "F732F61BAB7FB35CAA51D90A0683733389BE359FA32E0617BAF0F6378961556E",
-                      "size":  74240
+                      "sha256":  "899E321CAE0066E2C00D3326BE3A6A1F03899337A028724A7DF6A2ACA31F077E",
+                      "size":  75264
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.deps.json",
@@ -77,7 +77,7 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "C9A43E8EEDB5060F8C197329C8C65246E8883E134D6C6008775484E19AD1A0F5",
+                      "sha256":  "FB2C74CE1277D704AD01554898950A26D70776C074AE869EDDF293E6C2E8044E",
                       "size":  418816
                   }
               ]
