@@ -1,7 +1,7 @@
 {
-    "version":  "2026.10.20-0812",
+    "version":  "2026.10.20-1009",
     "commit":  "24f9d62",
-    "builtUtc":  "2026-10-20T01:12:36.3453908Z",
+    "builtUtc":  "2026-10-20T03:09:35.7922956Z",
     "notes":  "",
     "localBuild":  false,
     "files":  [
@@ -47,7 +47,7 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "972462B4B9DCDC42F8E596816E9542940A358B03939160DDC5B09813C1FB6B4F",
+                      "sha256":  "F732F61BAB7FB35CAA51D90A0683733389BE359FA32E0617BAF0F6378961556E",
                       "size":  74240
                   },
                   {
@@ -57,7 +57,7 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "E7C5180D993948782C2DC869353A852AE2815CBFA67567B10B2BEEFC738E377C",
+                      "sha256":  "A18103F5A09CAAC256881D3CBA9034C249E8CB15C340133CF217A819DACD3ED2",
                       "size":  32768
                   },
                   {
