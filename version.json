@@ -1,7 +1,7 @@
 {
-    "version":  "2026.10.20-1253",
+    "version":  "2026.10.20-1334",
     "commit":  "0cb24d3",
-    "builtUtc":  "2026-10-20T05:53:33.6830798Z",
+    "builtUtc":  "2026-10-20T06:34:16.9520084Z",
     "notes":  "",
     "localBuild":  false,
     "files":  [
@@ -22,8 +22,8 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "DC75402BB1C5428AFF82CF598801FDBF4687AEA27040B6D278D26AB5498C2B12",
-                      "size":  58880
+                      "sha256":  "3FB9BBEBA58E6644F4AF08C7BB16716ADDCA29E1BB9425FABDFBBC8CF3CDAB89",
+                      "size":  59392
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.deps.json",
@@ -32,7 +32,7 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "708BA3CA2C85363C4B8BA2D10BCA4656044C1D0C5CD473152DE8D775AF50E9B2",
+                      "sha256":  "E5F79527A2A88F0356C62C900F7022972FFB1A8BCDB740B1BE5C815EFEE6B639",
                       "size":  139776
                   },
                   {
