@@ -32,10 +32,6 @@
       },
       "Item": {
         "PathContains": "JewelPassiveTreeExpansionLarge",
-        "ItemLevel": { "Min": 75, "Max": 83 },
-        "Corrupted": false,
-        "Mirrored": false,
-        "Intangibility": { "Min": 0, "Max": 0 },
         "Mods": [
           {
             "Name": "JewelExpansionPassiveNodes",

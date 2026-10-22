@@ -1,7 +1,7 @@
 {
-    "version":  "2026.10.20-1610",
+    "version":  "2026.10.22-1817",
     "commit":  "0cb24d3",
-    "builtUtc":  "2026-10-20T09:10:37.2473306Z",
+    "builtUtc":  "2026-10-22T11:18:00.3996538Z",
     "notes":  "",
     "localBuild":  false,
     "files":  [
@@ -12,8 +12,8 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "B8D663217A0DB6A4052297319B8B40F3075C533432570EEA834578833A77925F",
-                      "size":  87552
+                      "sha256":  "03E48CAF10E44FDD430432E12DB99A3EC0AB085B73D47B6E42BBC0EC57020D74",
+                      "size":  88064
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.deps.json",
@@ -37,8 +37,8 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/BuyConfig.example.json",
-                      "sha256":  "B980338A3F243D3F68A90445030E336F6B24A18155177510F27006DF0A834DE4",
-                      "size":  1409
+                      "sha256":  "85400C593EE45CB0A63865284A693C3DE43C7DAD938ED69174944472025D6014",
+                      "size":  1254
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.deps.json",
@@ -47,7 +47,7 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "92458E72CFE4AFC14228E363C1B304BA2122CA93A8EEE6FBECB20DAC07877918",
+                      "sha256":  "9A9345EDC3176700449D3787FC31DBF9C98C221CF174878850641E89E86070CC",
                       "size":  76288
                   },
                   {
@@ -77,8 +77,8 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "98C38DF9B87A7EB6A863C6D1EE7506D51B393DB313D02846CE855C9D4CAFCDA9",
-                      "size":  419840
+                      "sha256":  "9C47BDB87BB9806944750DF1FE13F654A4081C01B94306A2D04EE793E31BB0DD",
+                      "size":  427008
                   }
               ]
 }
