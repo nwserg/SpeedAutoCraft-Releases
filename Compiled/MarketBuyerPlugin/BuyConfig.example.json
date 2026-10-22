@@ -31,14 +31,7 @@
         ]
       },
       "Item": {
-        "PathContains": "JewelPassiveTreeExpansionLarge",
-        "Mods": [
-          {
-            "Name": "JewelExpansionPassiveNodes",
-            "Slot": "Enchant",
-            "Values": [ { "Min": 15, "Max": 15 }, { "Min": 8, "Max": 8 } ]
-          }
-        ]
+        "PathContains": "JewelPassiveTreeExpansionLarge"
       }
     }
   ]
