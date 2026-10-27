@@ -1,7 +1,7 @@
 {
-    "version":  "2026.10.27-1808",
+    "version":  "2026.10.27-1823",
     "commit":  "7336e64",
-    "builtUtc":  "2026-10-27T11:08:06.5308514Z",
+    "builtUtc":  "2026-10-27T11:24:01.4399899Z",
     "notes":  "",
     "localBuild":  false,
     "files":  [
@@ -12,8 +12,8 @@
                   },
                   {
                       "path":  "Compiled/BridgeSpikePlugin/BridgeSpikePlugin.dll",
-                      "sha256":  "656608F321F447DD61FD6A3F5D4F0B7D997CBDF151EDFC9917862C0D2976464F",
-                      "size":  46592
+                      "sha256":  "73BE2505F25A52CA2020556BB81AD38E7307EB19D474D672951CA4D8CE44B23E",
+                      "size":  48128
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.deps.json",
