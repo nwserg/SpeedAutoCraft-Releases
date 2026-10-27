@@ -1,20 +1,10 @@
 {
-    "version":  "2026.10.27-1906",
-    "commit":  "7336e64",
-    "builtUtc":  "2026-10-27T12:06:59.1041497Z",
+    "version":  "2026.10.27-2053",
+    "commit":  "9c6f83a",
+    "builtUtc":  "2026-10-27T13:53:12.5572888Z",
     "notes":  "",
     "localBuild":  false,
     "files":  [
-                  {
-                      "path":  "Compiled/BridgeSpikePlugin/BridgeSpikePlugin.deps.json",
-                      "sha256":  "0261BB14DBB963A7B26492F8FD4898A93D8BECD219C5C3175A9D238B25DDC642",
-                      "size":  1733
-                  },
-                  {
-                      "path":  "Compiled/BridgeSpikePlugin/BridgeSpikePlugin.dll",
-                      "sha256":  "73BE2505F25A52CA2020556BB81AD38E7307EB19D474D672951CA4D8CE44B23E",
-                      "size":  48128
-                  },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.deps.json",
                       "sha256":  "2A0BB36A379CCDD61A47A50FE3347D98326441A949BD50FE59EE455E935BB0BA",
@@ -22,7 +12,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "AC2DF70B74EB3BCCE113FA543845E5C03D04CECA5A0FB4364385DF4EC88E8217",
+                      "sha256":  "6237902C03A6A8EC66C7B6A5A1C02F74311FF1EF95802416FCD5B91C3244E50F",
                       "size":  88064
                   },
                   {
@@ -32,7 +22,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "0091DBBCFFBEB74C4E852DF6FF734F6BB7BDEE1D007B466C4C7A2DB83869025A",
+                      "sha256":  "F45FD1A9ABCD5804EA0FB0CAAFDF3EC922842EE7A9E3250555B179ACADAEC18F",
                       "size":  59392
                   },
                   {
@@ -42,7 +32,7 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "7ECFAF8A97826DCC1D8E9BB641B7300F3EC2DC1A37CB2EDD7EE85CFFAD805C6F",
+                      "sha256":  "9B8EDB8665183FE1E1FBD09ECB912F31E7E4C38494F6934304054F5521C2C9DA",
                       "size":  139776
                   },
                   {
@@ -57,7 +47,7 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "D4EB1753429518235D6E0B995F107866AF911864860667B4983AB7E1644A6FD5",
+                      "sha256":  "58AD89C9FF4CFA22B106194BD775A75F13720AED52D78C56CE415753A889202B",
                       "size":  76800
                   },
                   {
@@ -67,8 +57,8 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "DA60CE38D53807CB79A43E32642927F3023E5FB12A131903DAE6F4EA6A78CCD9",
-                      "size":  32768
+                      "sha256":  "7CCE673F42570A99A4A6C9306307C424FFA1EBC6B167C5F3A198229695FAFA09",
+                      "size":  76288
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.deps.json",
@@ -77,7 +67,7 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "ED1055E29E504B61D73D250BD71AF5D06E46DFF4D6F805DA4932A2D8ED398F79",
+                      "sha256":  "2990BA638768D614D3FDF2ECA8F5851C1D41D93FABFF4EF28F5C473243951CFA",
                       "size":  199680
                   },
                   {
@@ -87,7 +77,7 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "2B6FFB320409A0A6DD80DD9F7AB5278DEE5372D1131F502E21805C71DA624FD6",
+                      "sha256":  "58F9FB1153E9E5A248CE45A3F28842446C891BB4C2C99130B6C88E9AFCF52E20",
                       "size":  433152
                   }
               ]
