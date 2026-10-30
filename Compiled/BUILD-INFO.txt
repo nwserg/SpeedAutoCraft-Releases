@@ -1,7 +1,7 @@
 SpeedAutoCraft plugins - build info
 
-Built           : 2026-10-30 01:05
-Git commit      : 60ae56a
+Built           : 2026-10-31 02:38
+Git commit      : 30dd9b9
 
 Compiled against this ExileCore build:
   ExileCore.dll size    : 5701632 bytes
