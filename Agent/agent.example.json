@@ -4,5 +4,6 @@
   "exileApiPath": "C:\\Users\\PC\\source\\repos\\SpeedAutoCraft\\ExileApi-Compiled-master\\Loader.exe",
   "startHotkey": "Ctrl+F5",
   "stopHotkey": "Ctrl+F6",
-  "serverUrl": "https://craft-cloud.ru"
+  "serverUrl": "https://craft-cloud.ru",
+  "remoteConsole": false
 }
