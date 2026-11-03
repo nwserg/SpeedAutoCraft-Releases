@@ -1,8 +1,8 @@
 {
-    "version":  "2026.11.03-0209",
+    "version":  "2026.11.03-1123",
     "commit":  "e21824c",
-    "builtUtc":  "2026-11-02T19:09:27.5322979Z",
-    "notes":  "Удалённая консоль, имя бота и компьютера в агенте",
+    "builtUtc":  "2026-11-03T04:23:20.1379685Z",
+    "notes":  "",
     "localBuild":  false,
     "files":  [
                   {
@@ -72,7 +72,7 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "9BE9765217BBD4872C0820B24A6101EEC737B0F8F4D200A29A29C1384294D8BA",
+                      "sha256":  "901778B1A83DAA0B0E73E0E1AD275F5BDB3474D207F5B390C3E3C3ACD89726D1",
                       "size":  448000
                   }
               ]
