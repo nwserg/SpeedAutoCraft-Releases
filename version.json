@@ -1,8 +1,8 @@
 {
-    "version":  "2026.11.06-1233",
-    "commit":  "51213d7",
-    "builtUtc":  "2026-11-06T05:33:29.6249035Z",
-    "notes":  "Плагины проверяют обновления раз в 5 минут",
+    "version":  "2026.11.06-1243",
+    "commit":  "bf45046",
+    "builtUtc":  "2026-11-06T05:43:24.8752315Z",
+    "notes":  "Divine: stash read on open",
     "localBuild":  false,
     "files":  [
                   {
@@ -12,7 +12,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "93CD27FF8D5E51E0C9B8824A916EF22F965492DEBA713F752673F574B72ACB81",
+                      "sha256":  "481628D5A59F6AE1FF8778A1FCA793259B3867EE773F619874285B471C23C4F0",
                       "size":  85504
                   },
                   {
@@ -22,7 +22,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "3D3774BA1873C64E618CA893504951BD0FF3700E3B23AC167BB7F93C81D71226",
+                      "sha256":  "87D60E54D57C5E3A1116D8338466E9A02F3D97CAA24E4ADCFB622A07BD8CF9DA",
                       "size":  58368
                   },
                   {
@@ -32,7 +32,7 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "117E58D97C3CBFB4DD1BBE74449E83E8E6C2BBA554C199F01787E467A3C118B5",
+                      "sha256":  "23477A0B3BA00F815576ADD2D4C256981095CA5C25BF107C298F73670B719BAE",
                       "size":  135680
                   },
                   {
@@ -42,7 +42,7 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "E11333DAB092A61C204B763F757F9647CAF1CF367A4FF10FB53C409465A5226D",
+                      "sha256":  "EFFD42B5913F5985F25F6A8675C3B6816D563E0047EA07E4F19B32BEC6EDB9D8",
                       "size":  94208
                   },
                   {
@@ -52,8 +52,8 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "E5DABD567063940097AC95C82ACF57F7B6308D6FFD30EB62D1D99214CC9E7590",
-                      "size":  114688
+                      "sha256":  "8B6F203C84CC845725B1E6567EE76586D74D8463551EC2F5BD8D959C5B8E45E7",
+                      "size":  115200
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.deps.json",
@@ -62,7 +62,7 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "D1BCA68271F6186767FDDF229B95D45055C960D9BE5B97971C2D5D3972252BFA",
+                      "sha256":  "5F970361515388EA0DAAA6B3A2EE540CE8C03D34BE3B5459AAFDC87796141DFF",
                       "size":  206848
                   },
                   {
@@ -72,7 +72,7 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "F2AE949A6771AA8D739B9C198B0628E9AED1B58EFE13B890C5813A941405EABB",
+                      "sha256":  "847B9A8E24B7C71AFDDD4F082AB33CC0F5466748C8B713AC9BA3CFF36C8804B7",
                       "size":  480768
                   }
               ]
