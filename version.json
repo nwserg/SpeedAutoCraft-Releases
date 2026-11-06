@@ -1,8 +1,8 @@
 {
-    "version":  "2026.11.06-0706",
-    "commit":  "b5bb60e",
-    "builtUtc":  "2026-11-06T00:06:53.1320231Z",
-    "notes":  "Графики FPS, пинга и дивайнов в кабинете; золото и Divine Orb в стеше",
+    "version":  "2026.11.06-0916",
+    "commit":  "cc4fdb6",
+    "builtUtc":  "2026-11-06T02:16:31.3096644Z",
+    "notes":  "",
     "localBuild":  false,
     "files":  [
                   {
@@ -12,7 +12,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "99DD6299D43ADD70A871D42E0323BF3E6CB7D30896C47AE191ED71B803FD3CB5",
+                      "sha256":  "29241EA0CB0B700A00B74E322ECBD20FAD719190BCEEB7EFEF44E655D19B2D03",
                       "size":  84992
                   },
                   {
@@ -22,7 +22,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "6CA8BDB40B82104104842EACC8DA2C690BF3C05DEBDC9C6913320A9D59F461DE",
+                      "sha256":  "9F9618E1494A053268AA44803EEBFD590E1D37AF17E6405C2A436B05B519B8CD",
                       "size":  57856
                   },
                   {
@@ -32,7 +32,7 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "211AD79FB82B830223244F45F0931B7401C324AB422464587C0E8FE8CF6E82DE",
+                      "sha256":  "F9C04DA7C01A07B1126F8496904027A9AC1BFE5099EF195EF0321555BDA499E2",
                       "size":  135680
                   },
                   {
@@ -42,7 +42,7 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "2D7BD003902D075B463C2EF5C2102364CF7B20D2C8345298ED4A101B7F7C1918",
+                      "sha256":  "A5F6CDF8345861AEEC24991B8602E08E65E8400DF8FE44ED55E3929EC32F32C7",
                       "size":  94208
                   },
                   {
@@ -52,7 +52,7 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "04CD5E3BB1D87D0AE9D9E321CED564C1CFB14A2F83CAE770F1F9CF5D247F575F",
+                      "sha256":  "EE3E016CDF90B29C6D82789693CF8C0930EF5A4FA57F99E6424E3AAC0D08B66F",
                       "size":  112128
                   },
                   {
@@ -62,8 +62,8 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "F09AAE9DE9A418DFF09E4D2E5E8B77E3862A4E650B840A3756FA92F79164A6CF",
-                      "size":  197632
+                      "sha256":  "0EEF831BE12A10DBF3210388238301504283D50D679BAC9482B908857583C18E",
+                      "size":  206848
                   },
                   {
                       "path":  "Compiled/PricerPlugin/trade_stats.json",
@@ -72,8 +72,8 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "604FB8545E9E32FB6FA4747CE7CEDFB8AA9B9D97C4948F20D99EBABC80DDF74B",
-                      "size":  479232
+                      "sha256":  "6A637C997446601C6FD894850D4EA50AAACDF5FD9563EAAF1CEA5A0F0EC260BE",
+                      "size":  479744
                   }
               ]
 }
