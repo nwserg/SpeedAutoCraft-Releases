@@ -1,8 +1,8 @@
 {
-    "version":  "2026.11.08-1653",
-    "commit":  "73afe70",
-    "builtUtc":  "2026-11-08T09:53:24.6836049Z",
-    "notes":  "Ghostflame: база модов из крафта кабинета - задача VesperCraft снова подхватывается",
+    "version":  "2026.11.08-1707",
+    "commit":  "c82f40e",
+    "builtUtc":  "2026-11-08T10:07:17.9014391Z",
+    "notes":  "VesperCraft: Ctrl+Click по NPC с дистанции прихода навигатора - бот больше не застревает у Vesper",
     "localBuild":  false,
     "files":  [
                   {
@@ -12,7 +12,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "7B8FB9ABE38AEFD65325E27D2AC87103D3E3788E76C17B8E6F06559B37C63522",
+                      "sha256":  "39866FDC41528D94B0E98A85D67DCD05DE36AA9A7E074E3F34BBA2A0AB121D21",
                       "size":  87040
                   },
                   {
@@ -22,7 +22,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "191AA1CED40621D095006ABE7FFAFC47D6D3E191352278EEB524FA0623E0F381",
+                      "sha256":  "59808141DC633C7ADF72F0A4B26C7964C9D9A6A9FD9A4A08A51AB11E230F19A8",
                       "size":  59904
                   },
                   {
@@ -32,7 +32,7 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "0EFE6173E33140913245A3BED0D84FC7D1B2234D25280966651658FCCABA052B",
+                      "sha256":  "EFEEC0AFF71ABF4F372C785317A2BB1F82097743A14CA918E49F63CAD28F97E4",
                       "size":  135168
                   },
                   {
@@ -42,7 +42,7 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "BB0CDD9A2C5664828843101F8B363A29C4438CAF11682509F5C5737EC0AF684F",
+                      "sha256":  "298D00EDF696A9F71039A06CB1F986642694B0D3E591A9B14BE0B4AEE62FD6FF",
                       "size":  65024
                   },
                   {
@@ -52,7 +52,7 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "7C8D457AA3E0606EB6F7459BBE5B0ECD2327709FA0D9D0F8276F7A344BEB9A66",
+                      "sha256":  "E0C1B43367667AE47BC8DAD91BBC96CC4A024B253F6AD2A4ABB32EEACDE67E84",
                       "size":  121856
                   },
                   {
@@ -62,7 +62,7 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "1B5670B5E26130196E9BAD657C5AFB3D6FF927C494A6399BD4DE45235464042C",
+                      "sha256":  "F85247E0FA198630736B69700DB44F30452D9446923B65F37C9E6ED64FD583D2",
                       "size":  208384
                   },
                   {
@@ -72,7 +72,7 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "A958B87883E1352919B3E2E48EF096F034DF78D895864B186523D44F5DC2AF6F",
+                      "sha256":  "4057D2EB0BDCE79E409B1F2FA97AA22DAFB9C4E8CD45DEBEA80B24BEBAF0A4AD",
                       "size":  483840
                   }
               ]
