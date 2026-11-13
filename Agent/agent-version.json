@@ -1,19 +1,19 @@
 {
-    "version":  "2026.11.08-2016",
-    "commit":  "38a12bd",
-    "builtUtc":  "2026-11-08T13:17:01.8234675Z",
+    "version":  "2026.11.13-2304",
+    "commit":  "cb3095d",
+    "builtUtc":  "2026-11-13T16:04:01.9924630Z",
     "notes":  "",
     "localBuild":  false,
     "files":  [
                   {
                       "path":  "Agent/agent.example.json",
-                      "sha256":  "F5FFB4ACAFD136B6C3C356BD6C4023589BE8C54B71DB98F07B2DC997C938A650",
-                      "size":  366
+                      "sha256":  "6577F050CF8A1751EFFF788522B956F3F56C5297BC4F26F32C53F0795B30AD5F",
+                      "size":  376
                   },
                   {
                       "path":  "Agent/SpeedAutoCraft.Agent.exe",
-                      "sha256":  "116A595FA9F513944F7F8D13327539F82EFF74DE63A10BB9B6B51CCA6B6B0375",
-                      "size":  1520932
+                      "sha256":  "1AA5FD5AE9965BF4A1F5971FAEFA3D8885F19E391076A4C2C384CF25345B9CB1",
+                      "size":  1519920
                   }
               ]
 }
