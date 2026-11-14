@@ -1,79 +1,79 @@
 {
-    "version":  "2026.11.14-0901",
-    "commit":  "a0d8f05",
-    "builtUtc":  "2026-11-14T02:01:02.2003596Z",
-    "notes":  "FollowerPlugin: автофласк жизни и маны",
+    "version":  "2026.11.15-0035",
+    "commit":  "8ee3b76",
+    "builtUtc":  "2026-11-14T17:35:26.6547515Z",
+    "notes":  "ExileApi v330.4 (Covens): Hexa.NET.ImGui",
     "localBuild":  false,
     "files":  [
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.deps.json",
-                      "sha256":  "E487EF2ECD35FAF2A4E0450314B7A11570D5DF7CB9721B46997520FBE18C2499",
-                      "size":  3657
+                      "sha256":  "43EB3CC9ABAFF4BD5C383C860C68F9501A66DF250B89812F5EF7194F9F13EA2B",
+                      "size":  2216
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "78AF7674BE83E9942E5F28813922A7CA74C770563CF378422C2AB0CC68084BC8",
+                      "sha256":  "FD84B636769E7B4387ADB87D6320DD180DE39F34845DB2DC3CE8272BA66F7A90",
                       "size":  87040
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.deps.json",
-                      "sha256":  "7AC7EEA3A42F8C501BBE26334F7F1D6A3417C851892BA6423E2A7210D3C41EB5",
-                      "size":  3657
+                      "sha256":  "E2817D5D22C4878D0700BDBDC6D53E4356203325B9D6704F11BD6A71DD8C3B3A",
+                      "size":  2216
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "6F38CDBC7531AD2672005EE6FD8D410734FF8967731188B2BEF2EC52D08EC403",
+                      "sha256":  "448A258218BC43146CA66758B35101A50A406C9FB73D78006038DEDF4D34F3BD",
                       "size":  59904
                   },
                   {
                       "path":  "Compiled/FollowerPlugin/FollowerPlugin.deps.json",
-                      "sha256":  "8BFCED76A3BE50CEE7CBF8486749574C1948C96FDEDC5C3BC3A0E0EDC1BBFC89",
-                      "size":  3645
+                      "sha256":  "A07965EEAC9B8270E50A0CCE21EA9D5AF3FEAA3A6F5F1CCB719E63AD60DDC27D",
+                      "size":  2204
                   },
                   {
                       "path":  "Compiled/FollowerPlugin/FollowerPlugin.dll",
-                      "sha256":  "68EB994CBC42815BC82C0F3C0751D9DD71698A1C4E632C6D969D140B8EE59AE3",
+                      "sha256":  "7964BB2942CB7CF2098304B3F71C84DDD71674775DEFF90DFDC1BF1565A76DB1",
                       "size":  44032
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.deps.json",
-                      "sha256":  "6876DFFCAAF07BA8966DAEDEA26B34B125DE81E1EE0146A5DEF9DEDD56287632",
-                      "size":  3684
+                      "sha256":  "7764507E2DB4D2BF7A85DDDB4ACF0666470595AC35C26134052F0FA9A223701B",
+                      "size":  2243
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "C56EFA84E2D6BE0131CF393807476786FA8B943B613C00882645E96D5BB53219",
+                      "sha256":  "91C27FC00FE960AD36428E2395639079F86638AF593172BAE62C179FA4CF4204",
                       "size":  135168
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.deps.json",
-                      "sha256":  "53C69523CF3585D3FD06C5D751CD6AD7D68BA0C90FD4E207155E99F7C7505874",
-                      "size":  3654
+                      "sha256":  "85221645D23360C0880607F0A61DD545AC18927EA10C7FBDD114712673531842",
+                      "size":  2213
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "21C109241E559F5AD040CA2F2468AAB8E1474A89F49C2DF12B7837B41C0719DF",
+                      "sha256":  "E1440ADED36C2ADF9026E651F4E2704078F86D69CF586276AFE017D2BAB1AF27",
                       "size":  65024
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.deps.json",
-                      "sha256":  "93AC33EECD349FE3AB1852BAE76B17FC1CA8F521199F68DCADAF8DEDD93BABAC",
-                      "size":  3657
+                      "sha256":  "B2EA58D1A2FA3C4721E227D8F88104A603BE338EDE24C1374A5100FC27967A50",
+                      "size":  2216
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "D203ED30ACF81DE18C45BB9EB68EA19F8A862E66590A7416F271E8E5551E661A",
+                      "sha256":  "FF55C13CD4E8A56FB219F345A09E1EA33AA15571935D63EA563E756BAC70460E",
                       "size":  122368
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.deps.json",
-                      "sha256":  "4C5776FF054B9E8E97D9EEAED157A0601C1D102B09147CCCD30A2B8A498D5382",
-                      "size":  3639
+                      "sha256":  "40F51ED7000512E8A962C5AA7684ADD8505AF4CA67F1171EC9870AD6FE110FAC",
+                      "size":  2198
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "692726FC8B46D625476D7AF8DC51A537DD95E066C7C8C9589AC76EC6F76C6252",
-                      "size":  210432
+                      "sha256":  "1029E00E48F81E9145708B73C772BC6A6F9099A2B1BEA323BD69BF2FA49E7CE1",
+                      "size":  210944
                   },
                   {
                       "path":  "Compiled/PricerPlugin/trade_stats.json",
@@ -82,7 +82,7 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "0633FCDA92B0C47E9350F826296E441FD7FA978365BE11B5F06B7EF466A9A775",
+                      "sha256":  "FAAEB35469040BA83C03CC1C5A957F4B7982A2D1DC41F93C4A318C3052DB28ED",
                       "size":  484352
                   }
               ]
