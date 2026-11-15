@@ -1,8 +1,8 @@
 {
-    "version":  "2026.11.15-1446",
-    "commit":  "1a9670b",
-    "builtUtc":  "2026-11-15T07:46:08.8333216Z",
-    "notes":  "FollowerPlugin: воскрешение после смерти",
+    "version":  "2026.11.15-2136",
+    "commit":  "194d92e",
+    "builtUtc":  "2026-11-15T14:36:57.0377307Z",
+    "notes":  "Mover ждёт загрузки вкладки перед поиском базы; крафт не переходит на другую базу",
     "localBuild":  false,
     "files":  [
                   {
@@ -12,8 +12,8 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "EF3BC5FEEC029B8EEE3867F269DFC9A9DA9DBFB61FC4B1A1F0056CB0E06965E4",
-                      "size":  87040
+                      "sha256":  "F88AC02989037A41E6EA79EA96691AFCDA55413A9FEF50BE93BBFB2146C99CFA",
+                      "size":  87552
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.deps.json",
@@ -22,8 +22,8 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "D4416D5D56BD9A8977DA8FD9AFDFAD21A3FC79B8E7B0D7A751F0FF7C616EC12F",
-                      "size":  59904
+                      "sha256":  "B327F20175AB44D78A694C8CDD45FEAA8ACFFC8EDA3D47D50A0E396198BE20D5",
+                      "size":  61440
                   },
                   {
                       "path":  "Compiled/FollowerPlugin/FollowerPlugin.deps.json",
@@ -32,7 +32,7 @@
                   },
                   {
                       "path":  "Compiled/FollowerPlugin/FollowerPlugin.dll",
-                      "sha256":  "8994CA9C8B7342FB7D58692D0AF756F63FAB90B45991AE57C08CA994EFF723A8",
+                      "sha256":  "11471A6B600D9202A7F6B1AFE4B871FC6442B89CDAF40A10CC766EB4A8991AAD",
                       "size":  46080
                   },
                   {
@@ -42,7 +42,7 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "58B7847CA6EDFD7690F569CD55E3F8FFBDD6D1742F6173A96605ACE5D2F44075",
+                      "sha256":  "0D06D2B0183036B746207A5F6C1ADE687ED67CE6B3E9E11811B9D90666E5CD2E",
                       "size":  135168
                   },
                   {
@@ -52,7 +52,7 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "E7AAD27CF41CC9B24AB058545BD5E8C23E9FB8CB9FEC2CD7B0F544526C38E1CD",
+                      "sha256":  "172C44BA3D991D08EA38D57B981A9E65F1B48956946C03FB5AEFDE31CFB21AA1",
                       "size":  65024
                   },
                   {
@@ -62,7 +62,7 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "9EBB510CB847A2CA1730CE0AC774880321BCB925F2E8A5AF99B748F49EF1CBB8",
+                      "sha256":  "8EA35D2BC44E23155B94300FE87B6F0D7B0FDECFA46B02033598206C2700DA0C",
                       "size":  122368
                   },
                   {
@@ -72,7 +72,7 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "0A1F6A00ADC197FEDDED41DEE6E59CF83B65A1D63816BC57CD747B950F6ECB55",
+                      "sha256":  "B9112337C3AA56E76C4B284F38D7E57312AC5C56A014E14E50EE6DCFA76D2694",
                       "size":  210944
                   },
                   {
@@ -82,7 +82,7 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "25D6F49DD6310C032AD7B92539E2C692024BE03C393444E4D40B97FFFFD1D1B6",
+                      "sha256":  "030B82D3203CBEFCAF41492F8B8D70FCD37F8623240EE69318C0CC921FD6056B",
                       "size":  484352
                   }
               ]
