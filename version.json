@@ -1,8 +1,8 @@
 {
-    "version":  "2026.11.16-1833",
-    "commit":  "b386cbf",
-    "builtUtc":  "2026-11-16T11:33:58.5368015Z",
-    "notes":  "Cluster buyer: two-line Staff/Mace enchant recognized in tooltip",
+    "version":  "2026.11.17-0421",
+    "commit":  "4c0a8ce",
+    "builtUtc":  "2026-11-16T21:21:25.0633392Z",
+    "notes":  "Follow: запуск с сайта, ожидание погибшего лидера",
     "localBuild":  false,
     "files":  [
                   {
@@ -12,7 +12,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "BB7B91F4CCC55384921B913E043CA42C33F9F5F1E67424F63034EDF31FE38E9B",
+                      "sha256":  "4A041831E5FC9FE17B54C375E27480D8365DEEC327B112929013D9BB386E4926",
                       "size":  87552
                   },
                   {
@@ -22,7 +22,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "3A547AAA035C44C146BAF97EA38A3C48F63A36A7025A9363BF39388F90366A0C",
+                      "sha256":  "2E8B21D83FB6EBB4E5CDFD4C52C772CFB36F08F5055DEF06B20016F1D26DF72F",
                       "size":  61440
                   },
                   {
@@ -32,8 +32,8 @@
                   },
                   {
                       "path":  "Compiled/FollowerPlugin/FollowerPlugin.dll",
-                      "sha256":  "71E2FC032A14F5026B0AF59BC018C593B46FB03EF4B6D96E80FD8822EE6977AC",
-                      "size":  46080
+                      "sha256":  "A024DBB93806FDFAF579360F05F40164BF93E016A42AD5D44D50687D8AD6151A",
+                      "size":  50176
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.deps.json",
@@ -42,7 +42,7 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "AA53A06E809A4D11BFE7487D0158448345D8FD6BF55A56EB9A175CBF1D1350A6",
+                      "sha256":  "D5E83A57C5FD334685C10964193F439557268BD707E7A575B9EBA74726501F06",
                       "size":  135168
                   },
                   {
@@ -52,7 +52,7 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "34574B00B384D66486998EBE9895D11AA076F457E71970D9010F9F5E94EBF4EB",
+                      "sha256":  "40486CBC0A7F430A103AF23DAD1FED9B22F2DDE75271797DA78CA1B338E4EC3A",
                       "size":  65024
                   },
                   {
@@ -62,8 +62,8 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "C2A5DAFBB8C483D0F878A74C2EF624579E112BCB8A9C36769A3A577CC947CC7F",
-                      "size":  122368
+                      "sha256":  "327B094DB6F30355E284515BF16D8EFF28F57AD6A9A5E507F60AE1923AF71631",
+                      "size":  122880
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.deps.json",
@@ -72,7 +72,7 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "E84727EFB2A86B2810E40237CDFD768D7E7B59313C63C995026D8E1070A54A5D",
+                      "sha256":  "F681954867282F80C53E8CEA66DC672CA66EFA9C7830E65CBDA08858369C8F8D",
                       "size":  210944
                   },
                   {
@@ -82,7 +82,7 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "3DB2319F807D94A15201E17AFE736ABCD802B913843728F297FB0233045B9831",
+                      "sha256":  "63EB9AFBB4696C12711462193EDFC4F0A4E9878ADDD30829DF65A3E3423A70D7",
                       "size":  486912
                   }
               ]
