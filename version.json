@@ -1,8 +1,8 @@
 {
-    "version":  "2026.11.17-0442",
-    "commit":  "adac43e",
-    "builtUtc":  "2026-11-16T21:42:48.4988434Z",
-    "notes":  "Follow: пешком до 5 с, дальше телепорт кнопкой группы",
+    "version":  "2026.11.17-0501",
+    "commit":  "96d0298",
+    "builtUtc":  "2026-11-16T22:01:04.6021430Z",
+    "notes":  "Follow не сдаётся; снимок состояния с сайта",
     "localBuild":  false,
     "files":  [
                   {
@@ -12,7 +12,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "99C66F59FA5DD457071DD2FFAA3A5E0262BF467E2FA4610125A1E063D793E9FE",
+                      "sha256":  "BC72EB91F473F5CBD259EF88FCD2957FF34C81101DF16E67B21B2C5991CD356F",
                       "size":  87552
                   },
                   {
@@ -22,7 +22,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "30D95F9766C73E84FED476AEDC7B44A951F205F5CC031FBEF1B1BAD26A0749E1",
+                      "sha256":  "B08D38624E53B9E5DCF81B590617B812CCFD183FCA010230472338A8AE3A9705",
                       "size":  61440
                   },
                   {
@@ -32,8 +32,8 @@
                   },
                   {
                       "path":  "Compiled/FollowerPlugin/FollowerPlugin.dll",
-                      "sha256":  "30A2A118811EC58B7C3B952D0E3A9478B5EE73AC24A719682DB7EBCBF3F09C78",
-                      "size":  54784
+                      "sha256":  "FC3DEFDE2BA5CA8A9C600FD17A88A793ED0094FC705CEF7BBADE91F8ED20B50E",
+                      "size":  64000
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.deps.json",
@@ -42,7 +42,7 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "826A518366C7789E1602C062521F525C5412CA5FA8FD21E2167593514697E642",
+                      "sha256":  "A34D470CA92905E6D45A039FF8630C1163B9179AB7CFD723E0009DC0E25F3BAC",
                       "size":  135168
                   },
                   {
@@ -52,7 +52,7 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "D11CB548BDE9ACF9D902FD284B880FD5E9655E2F694D1D9F122892E2BA5842FE",
+                      "sha256":  "E6704956DF405531503EF1605FF809775947200FDD8AC4F8071AF6E3CB87D738",
                       "size":  65024
                   },
                   {
@@ -62,8 +62,8 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "BAD85963A8D9364D2954751FDE695D5B2C52C639DCAB2A60804CB4725DC4BCC5",
-                      "size":  122880
+                      "sha256":  "B0B0F4E5FB8F7D6B7BF6BD1A850E952946E3F060C45216F805C03BF92849EEBC",
+                      "size":  124416
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.deps.json",
@@ -72,7 +72,7 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "44A2B021BA5C4968A69D61914FDB8CB9963D42E8FE2E3D8ED1DFD79E2A9B3E7E",
+                      "sha256":  "1D692E3D5F93E09995E9B026B5EF7CC58888A6B6A59E7023486AE85BDA52A942",
                       "size":  210944
                   },
                   {
@@ -82,8 +82,8 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "25F27809F00688DF5F39780B58E260722DD1370003BE429095AF1245970AFC8C",
-                      "size":  486912
+                      "sha256":  "4CAE01CFD79D85C6DD50018167F7AE3195C4171994F2BC8C7C043F6DD448434A",
+                      "size":  488448
                   }
               ]
 }
