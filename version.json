@@ -1,8 +1,8 @@
 {
-    "version":  "2026.11.17-0432",
-    "commit":  "0313bd5",
-    "builtUtc":  "2026-11-16T21:32:31.1580520Z",
-    "notes":  "Follow: состав группы с сервера, лидер по умолчанию — лидер группы",
+    "version":  "2026.11.17-0442",
+    "commit":  "adac43e",
+    "builtUtc":  "2026-11-16T21:42:48.4988434Z",
+    "notes":  "Follow: пешком до 5 с, дальше телепорт кнопкой группы",
     "localBuild":  false,
     "files":  [
                   {
@@ -12,7 +12,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "DC7845419D3F8032F241AF05DFD0A0A1DB79EA388990FCD4CACF7CCE67F87BC5",
+                      "sha256":  "99C66F59FA5DD457071DD2FFAA3A5E0262BF467E2FA4610125A1E063D793E9FE",
                       "size":  87552
                   },
                   {
@@ -22,7 +22,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "7744EED3D3A6DE1A6B9AEE86958480006F4CDD9C79A887CD00D9FA9F34853759",
+                      "sha256":  "30D95F9766C73E84FED476AEDC7B44A951F205F5CC031FBEF1B1BAD26A0749E1",
                       "size":  61440
                   },
                   {
@@ -32,8 +32,8 @@
                   },
                   {
                       "path":  "Compiled/FollowerPlugin/FollowerPlugin.dll",
-                      "sha256":  "8DCBEB7D0EF73FC57B9C05FD730B0594D066E514086F7EEC4D212F67A7FF3E9D",
-                      "size":  53760
+                      "sha256":  "30A2A118811EC58B7C3B952D0E3A9478B5EE73AC24A719682DB7EBCBF3F09C78",
+                      "size":  54784
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.deps.json",
@@ -42,7 +42,7 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "D5061B757F2DA327A017E127D39C092383684C2B52340512D66F1E76E08B477C",
+                      "sha256":  "826A518366C7789E1602C062521F525C5412CA5FA8FD21E2167593514697E642",
                       "size":  135168
                   },
                   {
@@ -52,7 +52,7 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "700CF6C90E3FB807AE0EE3BE7DDA21105ABFC48CE830660D885D0DAD7383F52F",
+                      "sha256":  "D11CB548BDE9ACF9D902FD284B880FD5E9655E2F694D1D9F122892E2BA5842FE",
                       "size":  65024
                   },
                   {
@@ -62,7 +62,7 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "8894A8D173179D229A7660013A78852957E5DA588295350B74342E27816FE811",
+                      "sha256":  "BAD85963A8D9364D2954751FDE695D5B2C52C639DCAB2A60804CB4725DC4BCC5",
                       "size":  122880
                   },
                   {
@@ -72,7 +72,7 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "B5760AB7C52E3361179A55D19C980A26F914EFA053AB817BBD0E805034A583DA",
+                      "sha256":  "44A2B021BA5C4968A69D61914FDB8CB9963D42E8FE2E3D8ED1DFD79E2A9B3E7E",
                       "size":  210944
                   },
                   {
@@ -82,7 +82,7 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "ED4872791F8BAB7D63537AE8ADD62A496918F5497315AF5B9C525CFED553DE82",
+                      "sha256":  "25F27809F00688DF5F39780B58E260722DD1370003BE429095AF1245970AFC8C",
                       "size":  486912
                   }
               ]
