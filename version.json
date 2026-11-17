@@ -1,8 +1,8 @@
 {
-    "version":  "2026.11.18-0212",
-    "commit":  "2f6a653",
-    "builtUtc":  "2026-11-17T19:13:00.0190382Z",
-    "notes":  "Follow: за кем следовать - ник участника группы из кабинета",
+    "version":  "2026.11.18-0309",
+    "commit":  "3bfb53e",
+    "builtUtc":  "2026-11-17T20:09:18.1326040Z",
+    "notes":  "Follow: вход на карту через портал, список группы на сайте и выбор за кем следовать",
     "localBuild":  false,
     "files":  [
                   {
@@ -12,7 +12,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "CB67FDD681AB5185D858F812DD26FE909A6B93F1802C1C700712165ABB987484",
+                      "sha256":  "D62B2D0F54E250EA75F8F9F7EDF76AF2A349A5C0DD9A55085DA4C8F3566DD5E5",
                       "size":  87552
                   },
                   {
@@ -22,7 +22,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "E4C8B5BFC68ACC71D89D0B8747AB0130684083336CBEF360CEF0A041805A5278",
+                      "sha256":  "EC6071E38AEFC9E35A0728724C7246F3FB2FB1CDFD158ED366734562EE7CB775",
                       "size":  61440
                   },
                   {
@@ -32,8 +32,8 @@
                   },
                   {
                       "path":  "Compiled/FollowerPlugin/FollowerPlugin.dll",
-                      "sha256":  "F9A2E9A2E02EBDFFE2DE796DDA13AC8DFD412A231CB464F656EB717CA2B0887C",
-                      "size":  150528
+                      "sha256":  "DC8D466D6DFE746A89547D76E51DB1DBECE001ACE2F339B3594DF2D6CD9D82BF",
+                      "size":  151552
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.deps.json",
@@ -42,7 +42,7 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "01CFC5C5871FD4EB2FC34024CB1B9BD8BBA009C00D7EE8800FCCAB8A75B69B75",
+                      "sha256":  "CCC13B0CAF1B430C539D0FE3A107D03B1474782EAF9BFFA73D137DB8D253359F",
                       "size":  135168
                   },
                   {
@@ -52,7 +52,7 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "DBF959E7E467D5BAA8ADC3992B9FFB9992BD71A3DEE978DCA0EB284C7D2635CC",
+                      "sha256":  "1AF510B2848F2D8CCD885E48413A9E20687A2B5902B1087DF2D294DFC1A1550F",
                       "size":  65024
                   },
                   {
@@ -62,8 +62,8 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "31004FD96D048487995E54AC5DAB1AB77EC9523F0734EF980050E5A4900C778A",
-                      "size":  124416
+                      "sha256":  "D38B508446F958D7F3D294D7D33D7696D4441AB65C99F1337D601868DC16EFC2",
+                      "size":  127488
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.deps.json",
@@ -72,7 +72,7 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "4ECBFC8DF413896E3254706FD27C1982C064FD5B856BC2A19D23E33E41E5F610",
+                      "sha256":  "DBF163A4396570718785F9C1C21165F7DF02CF7EE626479FCBADD4348B70A5DE",
                       "size":  216064
                   },
                   {
@@ -82,8 +82,8 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "9D5712DB38E0A285DEFA17A8F3F7B6EB31A2D170EC9EBEC898FD6072812184BC",
-                      "size":  496640
+                      "sha256":  "57FB2A23885F635EFDBA1BFC99C5555A329A4C820FE508AFB3A95D2C7F84C7A6",
+                      "size":  497152
                   }
               ]
 }
