@@ -1,8 +1,8 @@
 {
-    "version":  "2026.11.17-1757",
-    "commit":  "144ec4b",
-    "builtUtc":  "2026-11-17T10:57:34.7778432Z",
-    "notes":  "Follow: главарь бандитов — клик по нему, Kill, стоять на арене",
+    "version":  "2026.11.17-1811",
+    "commit":  "592170c",
+    "builtUtc":  "2026-11-17T11:11:07.6907013Z",
+    "notes":  "Follow: повторы клика по главарю, диалог перед Kill, табличка испытания",
     "localBuild":  false,
     "files":  [
                   {
@@ -12,7 +12,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "837EC5CB4D0FD56B97F0201976B6F001CFCBDBA265ADACA65502DA6676B39971",
+                      "sha256":  "B26F356F0E7921032B5BABF206C11C32CD82C06687AC72AD879440B6C0791DE6",
                       "size":  87552
                   },
                   {
@@ -22,7 +22,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "E1853D6770E67240BDAB8972645937950B6FC781B1313CF63A1754B85C535229",
+                      "sha256":  "15D634D74CB69368444D8728F9E4D3CE6A75F4B739A1686252A1F83A21F4AAA8",
                       "size":  61440
                   },
                   {
@@ -32,8 +32,8 @@
                   },
                   {
                       "path":  "Compiled/FollowerPlugin/FollowerPlugin.dll",
-                      "sha256":  "986FA188A5B4F3E583C7EE08ACB48B47BB32AC984962DB63FF0A8C2ACCA2D810",
-                      "size":  121344
+                      "sha256":  "B36AE649B55254337150BCD720F55830B64E387E9354E2CE8EF00CDE2B76786E",
+                      "size":  124928
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.deps.json",
@@ -42,7 +42,7 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "4D5381564BD1A7EE26E9C2B0F1FD231BE9232642E02E0E8D5F34E9FC047ED1A1",
+                      "sha256":  "CFD937DE2D8ACE8658115F9DF508AFA04F135DC42D2A94DD7D026B1EA0DF83B1",
                       "size":  135168
                   },
                   {
@@ -52,7 +52,7 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "C29847318978726B051E41C958597BD6AE947E2D0117DCA005925815291878C1",
+                      "sha256":  "961A1A0AC74130AC7C2CE5223D4B5AFF138A82A8EEE428B8CA49EBE63B6A27D6",
                       "size":  65024
                   },
                   {
@@ -62,7 +62,7 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "8C865E6FF36BA13D58347CAF9417F83C8293E6898379E725FCC52B69BF6D3615",
+                      "sha256":  "3E9B2294A0055840FAF6A123E8D7DCF58862A875D8A173CE1E08585CCB953B63",
                       "size":  124416
                   },
                   {
@@ -72,7 +72,7 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "E6FF35D674E6D06DC6579D8CC7C3EB700DABD1A378E891CFCB986AB71F9C3E1A",
+                      "sha256":  "8B408FD1A19C70E2EFDEF17186AB8C0B482C6F9F9C5C9C3EBBEFA474346F3F56",
                       "size":  210944
                   },
                   {
@@ -82,7 +82,7 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "F60C0E63EB888D1F962C4A37A2086F0370C464C203A4A59378CE4A68864D92FC",
+                      "sha256":  "BF9DB470BF3FB213314D0814BF47D4A4A50362F0636F5B77155FD2C034DB1BD2",
                       "size":  494592
                   }
               ]
