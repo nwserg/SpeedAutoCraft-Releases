@@ -1,8 +1,8 @@
 {
-    "version":  "2026.11.17-1933",
-    "commit":  "88dfdb2",
-    "builtUtc":  "2026-11-17T12:33:32.4341459Z",
-    "notes":  "Follow: к главарю бандитов только у лагеря",
+    "version":  "2026.11.17-1943",
+    "commit":  "7e30811",
+    "builtUtc":  "2026-11-17T12:43:10.0526439Z",
+    "notes":  "Follow: Kill только при погасшем знаке, Goodbye вместо Escape",
     "localBuild":  false,
     "files":  [
                   {
@@ -12,7 +12,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "4B6C91725B85593B5E87F836EC575CC9D1E578B477CA1F188CC3C04255A4AA51",
+                      "sha256":  "F9562ABC1BBE91C7A773D6E0716685546880F9ACACF04905AC849D6682BFD470",
                       "size":  87552
                   },
                   {
@@ -22,7 +22,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "56CADFD84885D9CE0FF47400AB441E2BD4D2C9C4C3A67543A8C33C0EF89DC821",
+                      "sha256":  "B49A0B2B78B02DA0E43E25F961D9080AD68683A31268BB2429135B80ABED3889",
                       "size":  61440
                   },
                   {
@@ -32,7 +32,7 @@
                   },
                   {
                       "path":  "Compiled/FollowerPlugin/FollowerPlugin.dll",
-                      "sha256":  "EBBE135B4E36D167559E987E2A7E97933A4BAB2B589A8F5DCD6169978E282CCD",
+                      "sha256":  "6BA8FA4F27EDB36A028D1CED3F31BAFD335D70300E3208E30894D51367117E2A",
                       "size":  134656
                   },
                   {
@@ -42,7 +42,7 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "EBAB841DA68EC8C164D13F5EE8DE7AF1B2C9F1DFCE2DD7EFF8105488CAEF2E8C",
+                      "sha256":  "D908B2C451FA2375CB608BED2F89ECAE5748F7921623F088E39041C429CA9F09",
                       "size":  135168
                   },
                   {
@@ -52,7 +52,7 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "F0F191FA1A3502B3EC1E8BE957B44D35305C3A952860B882683E724029B21FBA",
+                      "sha256":  "EF91AAEE80B36698647A79B59C9284BF875D2E724EE67DEFD79F113E09F501F4",
                       "size":  65024
                   },
                   {
@@ -62,7 +62,7 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "03BEB3D4AAF1140D2F36735A22FD053067C767F6949BDEFCD46A440C6FB87DE2",
+                      "sha256":  "F431076CCE278F64F222A0402B99C1AE814468FA789A94002A517B46547FD0BA",
                       "size":  124416
                   },
                   {
@@ -72,7 +72,7 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "C8E648126E5EF61E0D5056E9CAEC62E4B6425DBE9ED4C1C9147DEBD2825F43DF",
+                      "sha256":  "1886FB6ACA81381DDF35901B780036EB6FD5774AE6A215D38BB67A4E99517227",
                       "size":  210944
                   },
                   {
@@ -82,7 +82,7 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "50A957CE465C6727D68E89F55E629BE94A1E71AE2B880F4C745374AC8450D0ED",
+                      "sha256":  "963848944953186362B2DB85C750723D279C79D49F0142C614A0E9D46B671FD3",
                       "size":  494592
                   }
               ]
