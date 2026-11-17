@@ -1,8 +1,8 @@
 {
-    "version":  "2026.11.17-2236",
-    "commit":  "2a1c064",
-    "builtUtc":  "2026-11-17T15:36:07.9850289Z",
-    "notes":  "Прайсер: устаревшая лига в профиле заменяется текущей сезонной (Covens)",
+    "version":  "2026.11.18-0144",
+    "commit":  "68b5492",
+    "builtUtc":  "2026-11-17T18:44:16.7358848Z",
+    "notes":  "Follow: к NPC на радиус 250 и клик стоя, диалог быстрее, в городе без беготни",
     "localBuild":  false,
     "files":  [
                   {
@@ -12,7 +12,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "80FF30E77F614ED48B354D7BFCAEBA93B7EFD4604E0288952E60E6F1CAC4DEC8",
+                      "sha256":  "DDFF3A323423C2E9CCF5E95ACA3D63A17E04B7E5742ACFEE4C05CC65B061511E",
                       "size":  87552
                   },
                   {
@@ -22,7 +22,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "0DFE01726D8BEBE6388742312433083E0B592EAB3A413C0180861BA511764919",
+                      "sha256":  "59B3DABE5ECAC149CF0102821EA91C09F30CA6D842F017CF6387413539A47D47",
                       "size":  61440
                   },
                   {
@@ -32,8 +32,8 @@
                   },
                   {
                       "path":  "Compiled/FollowerPlugin/FollowerPlugin.dll",
-                      "sha256":  "A0C45B0EAEE48A3B05699CAAFC2C7EC3F422FFD00E01653EC07B67D41308A77A",
-                      "size":  146944
+                      "sha256":  "7511D2B1518EAA56DDF95860DC67C3775D4D5857DCDD28B54DB86D26CDD66FC5",
+                      "size":  148992
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.deps.json",
@@ -42,7 +42,7 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "1C3C8272DC520E2870035603BAC59236650752D38868E020E85FF9628711BB45",
+                      "sha256":  "77CF51EC2832252EA98325D6D6DB2A8AC42CB6A14FCB683B3D18F794914EA464",
                       "size":  135168
                   },
                   {
@@ -52,7 +52,7 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "870BC00256DD7C5C2DFA2602509B2E6B9E4A3E25C74F02812D85CDC001098D51",
+                      "sha256":  "8E8D7AF82147B41167648F82F98815EA4BE077B5538C4A307C3A37660D73E8F9",
                       "size":  65024
                   },
                   {
@@ -62,7 +62,7 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "7202B0790ABD657EDF1E6CB6435DF16979C4FB4ED910003EDAE38DCA1F688443",
+                      "sha256":  "B8F846B4C3DFEB0176B917BBC2E5AEA246DEA2632C3962C70B7A45A492B636FB",
                       "size":  124416
                   },
                   {
@@ -72,7 +72,7 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "9638DD4ECCA5932B3D3DD44AE1BBC5F45EF6396482DD6629E7DE05AEAAB659D0",
+                      "sha256":  "67C47CC476F9797F3913330D1437CF3BB85A09737DCF1600E851FAD90EEE7092",
                       "size":  216064
                   },
                   {
@@ -82,7 +82,7 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "6939B883F58FA5F2E23B6B307C250EBF64065EF6E85CE69DC76CB97EC2256522",
+                      "sha256":  "B532AA632919E85B5627C1D2536A4E78C45E3E79DEAAF1F5BDDEE2C6614DB192",
                       "size":  496640
                   }
               ]
