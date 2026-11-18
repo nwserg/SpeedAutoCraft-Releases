@@ -1,8 +1,8 @@
 {
-    "version":  "2026.11.18-1221",
-    "commit":  "665ac47",
-    "builtUtc":  "2026-11-18T05:21:04.5555412Z",
-    "notes":  "ExileApi v330.8; меню цены: валюта выбирается по иконке, список раскрывает бот",
+    "version":  "2026.11.18-1233",
+    "commit":  "0022371",
+    "builtUtc":  "2026-11-18T05:33:54.8337991Z",
+    "notes":  "fix: Pricer идёт к стешу только при закрытом окне Faustus",
     "localBuild":  false,
     "files":  [
                   {
@@ -12,7 +12,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "027DDD4C731CED0157DD29D862F815EDC41853DD7BC3C4243910EB342F42B608",
+                      "sha256":  "1219947774303FE23EC62E84C08C79DA46ABF4749665CA84F3CB68B6B7C96AD8",
                       "size":  87552
                   },
                   {
@@ -22,7 +22,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "F7B9F068034301BD53463F6332F1EDF821CCF3ED31C7E81CE46F0908DDA94DD9",
+                      "sha256":  "E23387F2C38E007A1EA594B027654E8ED6B8E67BCDAF7B642C4D5EF0C3E802EB",
                       "size":  61440
                   },
                   {
@@ -32,7 +32,7 @@
                   },
                   {
                       "path":  "Compiled/FollowerPlugin/FollowerPlugin.dll",
-                      "sha256":  "D428C62A734FF702D0987C32C0CCC9AF4B82F8D4E7E88727590F6F5044A36A9F",
+                      "sha256":  "14C5EADA2E8A8BA825FAC6DC1841A4F64F59C1D49A2F69AD507CE840B98936D1",
                       "size":  155648
                   },
                   {
@@ -42,7 +42,7 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "7DBAAB61C8CBD4134FDF725489B993E6FCF8BB8EE4B76EC2BACC3E6E06DC01B6",
+                      "sha256":  "7E75E18BA93129FFC0EFAAA1659536B08FDC319CA94078F4D7C40B02895BDF5D",
                       "size":  135168
                   },
                   {
@@ -52,7 +52,7 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "17C84F6AF197E1C93AFA2B90882A9CB4D10C8682FA9F45B58CDA1E6FC07DEDF5",
+                      "sha256":  "3268638F70A2FD30D164F735312764C7F50943CD42BD845A325C27D77E04E061",
                       "size":  70656
                   },
                   {
@@ -62,7 +62,7 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "451F5F31D9A75D898EE68FF09680C42F9095F0052D05590E0196A7DFC83986A2",
+                      "sha256":  "2C1138DB59B36D9467079845CFCB24EE203055A79C5BB00708B0BA747766FF79",
                       "size":  127488
                   },
                   {
@@ -72,7 +72,7 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "E8B11B648D148CA78FF273755CDDE42A6E4DBCA4105A45019680EE0FBABF37CF",
+                      "sha256":  "F73150297C901CA2E46EC01AD6B330B19786AF506CFB312B1BC8BF7E2B45CB19",
                       "size":  228864
                   },
                   {
@@ -82,7 +82,7 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "74F958B592E7657B245E278C4C0792357D96B1C234D8521AD6C6E8C7C2E596AF",
+                      "sha256":  "A518503DCBDE8D5C636B7CC7098D4CDD05A79B902F4098DCD98506C293BD7F11",
                       "size":  549888
                   }
               ]
