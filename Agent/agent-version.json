@@ -1,7 +1,7 @@
 {
-    "version":  "2026.11.18-1501",
-    "commit":  "4419c4b",
-    "builtUtc":  "2026-11-18T08:01:32.3453464Z",
+    "version":  "2026.11.18-1656",
+    "commit":  "6ea9bc3",
+    "builtUtc":  "2026-11-18T09:56:44.5344221Z",
     "notes":  "",
     "localBuild":  false,
     "files":  [
@@ -12,7 +12,7 @@
                   },
                   {
                       "path":  "Agent/SpeedAutoCraft.Agent.exe",
-                      "sha256":  "FD49ACF803FE4EAA20FD0C7F98C4F8BE65BD9DC34B6B278BA942633FAF7F656B",
+                      "sha256":  "9D8FBE780EFF427B51BB069BF80D8E26CA735A51CEF6F3ABA76CFEA3FA463592",
                       "size":  1532208
                   }
               ]
