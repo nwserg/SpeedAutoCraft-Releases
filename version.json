@@ -1,8 +1,8 @@
 {
-    "version":  "2026.11.18-0750",
-    "commit":  "34cde3d",
-    "builtUtc":  "2026-11-18T00:50:06.3847667Z",
-    "notes":  "MarketBuyer: валюта в списке Faustus выбирается и после обновления ExileApi",
+    "version":  "2026.11.18-0843",
+    "commit":  "996435f",
+    "builtUtc":  "2026-11-18T01:43:13.9011759Z",
+    "notes":  "Осколки не считаются сферами; закупка пишет причину пропуска правила",
     "localBuild":  false,
     "files":  [
                   {
@@ -12,7 +12,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "D572256DD70A2847E0DF237283408EBB9B35C0C26E1210738BE8816D655DBCCB",
+                      "sha256":  "5638A96B70E78B2B77E49943DDAB24BC434F8A872FFA057E2F8D455E5E28C83D",
                       "size":  87552
                   },
                   {
@@ -22,7 +22,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "05D1890B3C5A282C266E730ADBDAC6E07D1A6F1D5B822DD4A1FD96FFD6273667",
+                      "sha256":  "FEFD4DF5432A9AFA32F0994BFCF3D67928234DEEF30F9DDD9899A701F52CEBBC",
                       "size":  61440
                   },
                   {
@@ -32,8 +32,8 @@
                   },
                   {
                       "path":  "Compiled/FollowerPlugin/FollowerPlugin.dll",
-                      "sha256":  "2B45B066B267CD718B0B24C7F41030CA95A2BB6A942C5D41148C4D1982E563F6",
-                      "size":  152576
+                      "sha256":  "2F8C197B251A62A87E64FABF16EC6C069396DA4E392CEC6A53CC4E3D6CE8C918",
+                      "size":  155648
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.deps.json",
@@ -42,7 +42,7 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "42048C82D2ECB4EC045DCD305D12E9ACA23A838CB0EAD1F5BDC0B1911651AFC6",
+                      "sha256":  "2A5D46391324CEB79B7968CF989D299A16BC45E5BEE36BD38F5DBF2CF69AC6CA",
                       "size":  135168
                   },
                   {
@@ -52,8 +52,8 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "96312989BF502CDF91AB5BA2231FF8410C98ECF65B529D8692DF532AE1599C0E",
-                      "size":  65536
+                      "sha256":  "1EE6D29592F0C211A4937BD10DD80A26D2837D126731064D52C10ECF0404DB35",
+                      "size":  66048
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.deps.json",
@@ -62,7 +62,7 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "22C694825E0022D816CBF0F1AA3A10FE6664911994B69A0974CEB9AB5AF2AC46",
+                      "sha256":  "08B2EC99274A4B2A7021643F85298AD59B204A0F48DE88C8B93C517BDDE357A7",
                       "size":  127488
                   },
                   {
@@ -72,7 +72,7 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "0E71D80181692B11E33273137195BB9CBE072B8C8C729C82FF69F6867AA9E5D3",
+                      "sha256":  "8E82822B959AB0D7AB2995336534474A039ECD352EB10480B34753E56ACB7001",
                       "size":  216064
                   },
                   {
@@ -82,8 +82,8 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "28D36AB4DEFDB0891B99095582CDE3E405B3A84880EFBB531D62FAB43A240CED",
-                      "size":  503296
+                      "sha256":  "B25782081A2471612B60CCC37818F6DCEB024A31BBFB70D66907B24A2EBEA64B",
+                      "size":  503808
                   }
               ]
 }
