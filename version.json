@@ -1,8 +1,8 @@
 {
-    "version":  "2026.11.18-1233",
-    "commit":  "0022371",
-    "builtUtc":  "2026-11-18T05:33:54.8337991Z",
-    "notes":  "fix: Pricer идёт к стешу только при закрытом окне Faustus",
+    "version":  "2026.11.18-1302",
+    "commit":  "0f1d6a9",
+    "builtUtc":  "2026-11-18T06:02:19.5338172Z",
+    "notes":  "feat: крафт опознаёт неопознанный предмет свитком Scroll of Wisdom",
     "localBuild":  false,
     "files":  [
                   {
@@ -12,7 +12,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "1219947774303FE23EC62E84C08C79DA46ABF4749665CA84F3CB68B6B7C96AD8",
+                      "sha256":  "1F3A91E129FB72023043182938E52C0A6338ADD59180AD224BA2DB51656DA30A",
                       "size":  87552
                   },
                   {
@@ -22,7 +22,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "E23387F2C38E007A1EA594B027654E8ED6B8E67BCDAF7B642C4D5EF0C3E802EB",
+                      "sha256":  "6FF9B99715317DD484C35672FBE025B0D8D70775A54509346200E49FF37A9D78",
                       "size":  61440
                   },
                   {
@@ -32,7 +32,7 @@
                   },
                   {
                       "path":  "Compiled/FollowerPlugin/FollowerPlugin.dll",
-                      "sha256":  "14C5EADA2E8A8BA825FAC6DC1841A4F64F59C1D49A2F69AD507CE840B98936D1",
+                      "sha256":  "CA2EFCC5B82A2D17AADC048F67299069AECA717C27AA11C95EA0064F503BC748",
                       "size":  155648
                   },
                   {
@@ -42,7 +42,7 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "7E75E18BA93129FFC0EFAAA1659536B08FDC319CA94078F4D7C40B02895BDF5D",
+                      "sha256":  "6B7A6B7E908D293ED2EC14383A2B3E3998FC23977F47C7A4834E890AA764509E",
                       "size":  135168
                   },
                   {
@@ -52,7 +52,7 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "3268638F70A2FD30D164F735312764C7F50943CD42BD845A325C27D77E04E061",
+                      "sha256":  "5079F4A80BE41341E973028A020A475A8A4DE7895DED8C2B80425B72D7915607",
                       "size":  70656
                   },
                   {
@@ -62,7 +62,7 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "2C1138DB59B36D9467079845CFCB24EE203055A79C5BB00708B0BA747766FF79",
+                      "sha256":  "68FB66BFF5F78A8B2E7BA27D1B8984D067609B60EF772080F8DCA48F51078F2B",
                       "size":  127488
                   },
                   {
@@ -72,7 +72,7 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "F73150297C901CA2E46EC01AD6B330B19786AF506CFB312B1BC8BF7E2B45CB19",
+                      "sha256":  "F069965ED35915579B1234DB646570309D734B89EB37581250884456EE4F41CD",
                       "size":  228864
                   },
                   {
@@ -82,8 +82,8 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "A518503DCBDE8D5C636B7CC7098D4CDD05A79B902F4098DCD98506C293BD7F11",
-                      "size":  549888
+                      "sha256":  "3D4AFFDFE2C33ABC5793ED70B8B08CB3F49DA17FE6CDF45FA173442FFA6579B9",
+                      "size":  550400
                   }
               ]
 }
