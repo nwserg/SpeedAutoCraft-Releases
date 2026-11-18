@@ -1,8 +1,8 @@
 {
-    "version":  "2026.11.18-1057",
-    "commit":  "24ade6a",
-    "builtUtc":  "2026-11-18T03:57:20.5934699Z",
-    "notes":  "fix: Pricer пишет в лог и нулевой счётчик готовых",
+    "version":  "2026.11.18-1136",
+    "commit":  "13cf9ec",
+    "builtUtc":  "2026-11-18T04:36:44.1957309Z",
+    "notes":  "fix: меню цены async — пустой список валют не блокирует предмет, отказ закрывает меню",
     "localBuild":  false,
     "files":  [
                   {
@@ -12,7 +12,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "2EC7A86ED6FB6ADF07B065C58F97D8678559880D3BB9A846BE31706F59281048",
+                      "sha256":  "667DDE79A08220B027C0EF73329D7A0798048A40CF9563404FC2702A90AE636F",
                       "size":  87552
                   },
                   {
@@ -22,7 +22,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "D1B4003D6154E492F6D5FCB8946B6227D13D7EAE173CAAAEED8B0090318EC49F",
+                      "sha256":  "8D2F444DE904BFB9CA574330104D738AC37840E28FC85668AEAD58419B030B20",
                       "size":  61440
                   },
                   {
@@ -32,7 +32,7 @@
                   },
                   {
                       "path":  "Compiled/FollowerPlugin/FollowerPlugin.dll",
-                      "sha256":  "AEB58576EFE420F7F8F83FD008FFD86F1E5B0BA3BB59D10E5360E5FC50BA25AB",
+                      "sha256":  "1850A474FE8F0A28E703B58D4F26B8ED79FB65BF0263D678F6399B36909F5183",
                       "size":  155648
                   },
                   {
@@ -42,7 +42,7 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "E9A8A0733DD931B9267105A5692154192568245295B022FC5FEBC3A46386D28F",
+                      "sha256":  "F4A44E5A2A4102E94610D6F09004F7A97AC60DFF7F05F1209DE5BCC21989B951",
                       "size":  135168
                   },
                   {
@@ -52,7 +52,7 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "8E5FF94EDFA8C390A137C278FA52395445026ECF6C68E8F2F9571A23E349E111",
+                      "sha256":  "9161F66B224144746685B216D1F0E253D0A73BC38FCD1C59F64B86EC62CB9730",
                       "size":  70656
                   },
                   {
@@ -62,7 +62,7 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "8DB615B367D245E0A943F93C6219147048663703C516EC6A9531F0A34DC94E78",
+                      "sha256":  "42CCC2D3A3B38CD14FB0A04C8242078893C04FD3BC49FB5A58C96C352FDE34C2",
                       "size":  127488
                   },
                   {
@@ -72,8 +72,8 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "7392DC35BD58A962CFD5291101128889A8035022E8CC36F5B92A085B5A390D66",
-                      "size":  219136
+                      "sha256":  "C1D8C6ECD6C7C063173637DD1994C33618F67D63792F38E5CC6B9F8188CEC57B",
+                      "size":  219648
                   },
                   {
                       "path":  "Compiled/PricerPlugin/trade_stats.json",
@@ -82,7 +82,7 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "316EA68D42A5731B4EF5A2061981D578772A7E7B497E7B66D63CF59A17BFCAC5",
+                      "sha256":  "86279A29942638732983CFDA9251E42E802BB51B40CDFEB544FF591EADDFCA0D",
                       "size":  517632
                   }
               ]
