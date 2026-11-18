@@ -1,8 +1,8 @@
 {
-    "version":  "2026.11.18-1302",
-    "commit":  "0f1d6a9",
-    "builtUtc":  "2026-11-18T06:02:19.5338172Z",
-    "notes":  "feat: крафт опознаёт неопознанный предмет свитком Scroll of Wisdom",
+    "version":  "2026.11.18-1426",
+    "commit":  "c194f71",
+    "builtUtc":  "2026-11-18T07:26:57.3619529Z",
+    "notes":  "fix: Pricer не делает второй пустой прогон после продажи",
     "localBuild":  false,
     "files":  [
                   {
@@ -12,7 +12,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "1F3A91E129FB72023043182938E52C0A6338ADD59180AD224BA2DB51656DA30A",
+                      "sha256":  "5600579B0202896EF5353F0042F657386BAE0E74D1FDE87298D1CA4FA3CFA53D",
                       "size":  87552
                   },
                   {
@@ -22,7 +22,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "6FF9B99715317DD484C35672FBE025B0D8D70775A54509346200E49FF37A9D78",
+                      "sha256":  "792A996B7FCBF28A997BF1564A022A6E71DEADD13B342706554575393D0BD2E5",
                       "size":  61440
                   },
                   {
@@ -32,7 +32,7 @@
                   },
                   {
                       "path":  "Compiled/FollowerPlugin/FollowerPlugin.dll",
-                      "sha256":  "CA2EFCC5B82A2D17AADC048F67299069AECA717C27AA11C95EA0064F503BC748",
+                      "sha256":  "7982CF7502EE9B5342536E4AFCB35FF84FB327A04A86DF57F855973306AD75D1",
                       "size":  155648
                   },
                   {
@@ -42,7 +42,7 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "6B7A6B7E908D293ED2EC14383A2B3E3998FC23977F47C7A4834E890AA764509E",
+                      "sha256":  "032D384F864961241E32322461E5CBA83C609D3741CB2073AA5E05F001AC1338",
                       "size":  135168
                   },
                   {
@@ -52,7 +52,7 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "5079F4A80BE41341E973028A020A475A8A4DE7895DED8C2B80425B72D7915607",
+                      "sha256":  "694A19EC0C30DD781E54112C0DF7922EDC7A049B40717BB55CDFAE4C52B97AD2",
                       "size":  70656
                   },
                   {
@@ -62,7 +62,7 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "68FB66BFF5F78A8B2E7BA27D1B8984D067609B60EF772080F8DCA48F51078F2B",
+                      "sha256":  "A945D7D5937EA5E6D6A8371F36DB9A0D382FB679A843C9BB43588CD27343CDBD",
                       "size":  127488
                   },
                   {
@@ -72,8 +72,8 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "F069965ED35915579B1234DB646570309D734B89EB37581250884456EE4F41CD",
-                      "size":  228864
+                      "sha256":  "0FE72FF4B3701DDB3EA5E65A9DB3F802C5478EB09F4E4E99B2500D907207942E",
+                      "size":  229376
                   },
                   {
                       "path":  "Compiled/PricerPlugin/trade_stats.json",
@@ -82,7 +82,7 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "3D4AFFDFE2C33ABC5793ED70B8B08CB3F49DA17FE6CDF45FA173442FFA6579B9",
+                      "sha256":  "7C29B7EC28BB6672D0DFA02674C50A18E07E49643ADE5B6A2C9308D7A4EF23B0",
                       "size":  550400
                   }
               ]
