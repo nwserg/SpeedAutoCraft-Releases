@@ -1,12 +1,12 @@
 {
-    "version":  "2026.11.19-bbd1e435",
+    "version":  "2026.11.20-d64ac464",
     "commit":  "",
     "notes":  "ExileApi, 108 files",
     "files":  [
                   {
                       "path":  "exileapi.zip",
-                      "sha256":  "BBD1E4351DDFC2D898A32B181FEE91C995B5532151F4EB03F733C6D9C9FBFDAE",
-                      "size":  20255613
+                      "sha256":  "D64AC464E2CAD4064EE3980CB3D795AA69BEF9FBCCE9F4AD41A1E3A5E0B0B2C6",
+                      "size":  20259294
                   }
               ]
 }

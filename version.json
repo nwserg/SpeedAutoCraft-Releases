@@ -1,8 +1,8 @@
 {
-    "version":  "2026.11.19-1426",
+    "version":  "2026.11.20-0559",
     "commit":  "6996535",
-    "builtUtc":  "2026-11-19T07:26:17.5943883Z",
-    "notes":  "Follow: бот подходит к порталу перед кликом и заходит в портал, когда зона лидера не читается",
+    "builtUtc":  "2026-11-19T22:59:01.0017292Z",
+    "notes":  "ExileApi v330.10 (новый патч)",
     "localBuild":  false,
     "files":  [
                   {
@@ -22,8 +22,8 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "4D7E901D76B578BDD7FC28B39B76CC25AA079395501DE009633CE428CDDDA6C6",
-                      "size":  61440
+                      "sha256":  "582B5A1E4D015DBCC43F8ACAEA8B0ED2BDD15D1493944386E44C145E7935AF2D",
+                      "size":  62976
                   },
                   {
                       "path":  "Compiled/FollowerPlugin/FollowerPlugin.deps.json",
@@ -82,7 +82,7 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "2A15394F322A29399C673BB326CA602C51CCA67566597410DFE0FD27C39E0A3D",
+                      "sha256":  "0F1DB6760AD2CAE7C417798C4533911AE80B7D77601D1FDA3AD6F9373CBF4407",
                       "size":  555008
                   }
               ]

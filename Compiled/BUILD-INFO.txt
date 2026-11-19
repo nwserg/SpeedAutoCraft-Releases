@@ -1,12 +1,12 @@
 SpeedAutoCraft plugins - build info
 
-Built           : 2026-11-19 14:26
+Built           : 2026-11-20 05:58
 Git commit      : 6996535
 
 Compiled against this ExileCore build:
-  ExileCore.dll size    : 5890048 bytes
-  ExileCore.dll date    : 2026-11-19 12:41
-  ExileCore.dll sha256  : F4A0D6A504E752028F128CF15E8C25608081807392B3E93181FD646DDEE0BF2E
+  ExileCore.dll size    : 5906432 bytes
+  ExileCore.dll date    : 2026-11-20 05:52
+  ExileCore.dll sha256  : 5DDA5BE3095C1D793F2F10FF1E3BBB95F8B08F64A5FE0639870E9BFFB454FA7E
 
 If plugins fail to load with MissingMethod/TypeLoad errors,
 your ExileApi build differs from the one above - ask for a rebuild.
