@@ -1,8 +1,8 @@
 {
-    "version":  "2026.11.21-0546",
-    "commit":  "d7f9356",
-    "builtUtc":  "2026-11-20T22:46:38.5471115Z",
-    "notes":  "Статистика крафта: бот считает сферы и цену купленной базы на каждый кластер, в кабинете у бота окно «Статистика крафта» с профитом в час и за 8 часов",
+    "version":  "2026.11.21-0626",
+    "commit":  "c560576",
+    "builtUtc":  "2026-11-20T23:26:32.5271931Z",
+    "notes":  "Follow: подбор золота на ходу (стопки от 300), бот не мешает лидеру и меняет траекторию при зацикливании",
     "localBuild":  false,
     "files":  [
                   {
@@ -12,7 +12,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "DE4D1E96B9DE9D2ED921CBC71DC3628A32EE4CD6E1502A64E9D6634CC0616F17",
+                      "sha256":  "7314D1054AE66C6840F4DCA26115CAF59DA9A09032EDB0B6B128F5D946A33ACE",
                       "size":  89088
                   },
                   {
@@ -22,7 +22,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "65CD7533DCCE33197C86362C24C7D5FACE58BEEC9654DB65A7B61CD885AA213F",
+                      "sha256":  "13E5F1FC896817D78482EA05DCD376E57CC9334884A3AB055031A676172D8F5B",
                       "size":  62976
                   },
                   {
@@ -32,8 +32,8 @@
                   },
                   {
                       "path":  "Compiled/FollowerPlugin/FollowerPlugin.dll",
-                      "sha256":  "C4CF17DB13B97F957FED5B9465B1855DEB99832EF0154ED57A0CFFA5C99E31E0",
-                      "size":  159232
+                      "sha256":  "FDFAAFC00171830E7D44A392703F7FFCE2363F58E507479514E6376D67E6F623",
+                      "size":  175104
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.deps.json",
@@ -42,7 +42,7 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "1261262D6E5CD524620A51E8CFFA87F70C14DA130F7454EE3431D5F845D2668A",
+                      "sha256":  "B79FEDB91E8BC14D73ADEFF042C157DAE145CE504A5DC82916E8EFA1B347A9B1",
                       "size":  135168
                   },
                   {
@@ -52,7 +52,7 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "EE40261E58FC7BFCF6C95DD9BCD17133F1552F378BC59E444FB0D88F2BB5D086",
+                      "sha256":  "184A4602231E2EC0F8281C1A334072B94E4BC55404A7CFDFD15CB8E6C0E0868E",
                       "size":  77824
                   },
                   {
@@ -62,7 +62,7 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "075344A6514DD1710C85B8F0B5EC626B5BE2CFF72E2168D392A4CC9D85720E21",
+                      "sha256":  "1E3B54C3BA856F54D7526198892C38AA12EC196BB9A9222C437EF06775036EAD",
                       "size":  129024
                   },
                   {
@@ -72,8 +72,8 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "59D757AD82D038596946069FB758B7162CB1CCD3B4B84C80D3D33E0FF144804B",
-                      "size":  229376
+                      "sha256":  "96E14EFBAFF70A6FE684A6676ECE53AAF11BE4C864B2F76C6A4F647C2E1E48F9",
+                      "size":  230400
                   },
                   {
                       "path":  "Compiled/PricerPlugin/trade_stats.json",
@@ -82,7 +82,7 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "BAD62EECFD81003BACA67757759BD288C1E81DA8B7325F3F402F56EE51853066",
+                      "sha256":  "6B5A95A7ACEFED784BB9BB1BD4CB6138C3D80F2965FD3445B545AF89A3638C37",
                       "size":  574464
                   }
               ]
