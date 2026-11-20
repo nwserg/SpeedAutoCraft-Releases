@@ -1,8 +1,8 @@
 {
-    "version":  "2026.11.20-0559",
-    "commit":  "6996535",
-    "builtUtc":  "2026-11-19T22:59:01.0017292Z",
-    "notes":  "ExileApi v330.10 (новый патч)",
+    "version":  "2026.11.21-0221",
+    "commit":  "70ee886",
+    "builtUtc":  "2026-11-20T19:21:19.0720045Z",
+    "notes":  "Follow: награда NPC и подход без застреваний; ClusterMover: причина отказа баз в логе",
     "localBuild":  false,
     "files":  [
                   {
@@ -12,7 +12,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "E6EB67DE3C2D66E7DF36665E62A4DECF7EF805FE93736E8EB92EF80E279ED108",
+                      "sha256":  "37328C0B9C0AC90C77A55EC86D542AAEA476CA186CEB9BD875B6740C426ED845",
                       "size":  87552
                   },
                   {
@@ -22,7 +22,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "582B5A1E4D015DBCC43F8ACAEA8B0ED2BDD15D1493944386E44C145E7935AF2D",
+                      "sha256":  "FA6F656201F863A7499962382481B249B1CCF2ECA6D9DF326BF55E55C6572341",
                       "size":  62976
                   },
                   {
@@ -32,8 +32,8 @@
                   },
                   {
                       "path":  "Compiled/FollowerPlugin/FollowerPlugin.dll",
-                      "sha256":  "B80F07AEFC3893CC546B995E5AD8CDC641C8FBFF3FDC4021C99089939E8B6529",
-                      "size":  157696
+                      "sha256":  "BC2FE3A6E5A75CE2571FE4C3D4576CD1D73951E21C0ABB9D6E052F6A31F6448D",
+                      "size":  159232
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.deps.json",
@@ -42,7 +42,7 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "DBB36591876CBD0D14E389F86E35043BEAD46750A457C79D148B99895CDFD079",
+                      "sha256":  "CCACF5A14665169F62E29CC20256CEBD5E9336CB025F144B25D16C2AABA4072F",
                       "size":  135168
                   },
                   {
@@ -52,7 +52,7 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "61607345345804C35F22E46DA8A2F8DB32924A102CDF9E87012041113EC8B585",
+                      "sha256":  "62B0834165A6B9EA72DA9778DC9C6C85B322E1C75961BD304B09F63C19389B5B",
                       "size":  73216
                   },
                   {
@@ -62,7 +62,7 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "DCB0F23ED263E90905B724338972B043142221907567F986DEECD52A0DBF75CA",
+                      "sha256":  "D7CD01EB766742BD383CADAAEDC09D02A253F6729A00F56ABEBF144A28955973",
                       "size":  127488
                   },
                   {
@@ -72,7 +72,7 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "7768A44AC9B6EDD389502FCAD9B361AA21E95F98D33DFB2DDCB074B86F48B55D",
+                      "sha256":  "26C403689028FD3EAA7FEA40F31D65728EAEE9A18184C32172DE07EE1E8F2C2E",
                       "size":  229376
                   },
                   {
@@ -82,7 +82,7 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "0F1DB6760AD2CAE7C417798C4533911AE80B7D77601D1FDA3AD6F9373CBF4407",
+                      "sha256":  "7370A9DA4EE71BB90D0E7F8BD35FF88862C3E7436F7A0EA7C36C9C49FF3D4517",
                       "size":  555008
                   }
               ]
