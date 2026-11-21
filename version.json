@@ -1,8 +1,8 @@
 {
-    "version":  "2026.11.21-1548",
-    "commit":  "274c871",
-    "builtUtc":  "2026-11-21T08:48:42.0497818Z",
-    "notes":  "Faustus: бот больше не ходит в NPC по кругу (дистанция подхода по земле); в снимке раздел Pricer с журналом",
+    "version":  "2026.11.21-1604",
+    "commit":  "131a114",
+    "builtUtc":  "2026-11-21T09:04:56.0545438Z",
+    "notes":  "Faustus: бот кликает с места, а не упирается в NPC по кругу (точка клика смещена от позиции)",
     "localBuild":  false,
     "files":  [
                   {
@@ -12,7 +12,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "CA83684AC0A8397C5ACDF987726E25C989A5A0EAB1E959ABF76551B7B683D91B",
+                      "sha256":  "6E032628E4194159598B0728E378A85A9C960136BB743CEE55CBD59312F5A35E",
                       "size":  89600
                   },
                   {
@@ -22,7 +22,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "ED314B9B6CA5AEF564CB2B85491583F74E9DBF38DFC85D29399DFD9066BDEA12",
+                      "sha256":  "837048A5792C39311F1A7F6DAEA9567E7E605FB7D57E432E959874471BB5B7B0",
                       "size":  62976
                   },
                   {
@@ -32,7 +32,7 @@
                   },
                   {
                       "path":  "Compiled/FollowerPlugin/FollowerPlugin.dll",
-                      "sha256":  "FE62EE52B9D9C139962E7B8F86E069F5BBB17DFBF14B6BA2BDCAEA7B45EF7619",
+                      "sha256":  "C8447D0E0B9A0A9303C6DA754D4D2D32FB12B7435659BD856F6E87ADB3913B4C",
                       "size":  192512
                   },
                   {
@@ -42,7 +42,7 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "8EDC4F06BF4491367F9A1C2CD96FFF568F1FAC9062DF3A587F20B5C1D3645025",
+                      "sha256":  "8719659F703617445CC352F91CF1FBF8F11329C41C4CA0930522D9738455D2CA",
                       "size":  135168
                   },
                   {
@@ -52,7 +52,7 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "8C86F36CF103DEC4422D1B6D5E8561AB653DB00ACF4A7D7899182D78F4B3D702",
+                      "sha256":  "54216AD7EE81862ECB5F11DE66056C06CFC832065965C9A068C88936E8AD9941",
                       "size":  81920
                   },
                   {
@@ -62,7 +62,7 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "801B0EC70A88FD4A27F854E83EC7249AD41EFBF9E8094910FC536B44F48CC6EB",
+                      "sha256":  "3B09C0D00ED154D5F9209E01333306C5AEF8639143898BA82FB5F33A9F730F34",
                       "size":  129024
                   },
                   {
@@ -72,7 +72,7 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "06E0A6190A5A0E25786AB016CE8D613E84A91A85BDE85777E624FC58D470D7CC",
+                      "sha256":  "30545AF4DE29F2C8E90A43F2F2799166C535D4693BED107C776846C7322E4411",
                       "size":  236544
                   },
                   {
@@ -82,7 +82,7 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "DB81F53D413783264A5BF9207D77B69E6233948BDC55EF2364866D26A27C8C67",
+                      "sha256":  "CEEA69B53997B680A4849CB71E5279FAB5BC1A200ED6AFD66A2778D2E3CB18BC",
                       "size":  590848
                   }
               ]
