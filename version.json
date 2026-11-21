@@ -1,8 +1,8 @@
 {
-    "version":  "2026.11.21-0924",
-    "commit":  "ea9ce6c",
-    "builtUtc":  "2026-11-21T02:24:34.6695272Z",
-    "notes":  "MarketBuyer: объявления в Divine при правиле в Chaos — по курсу из кабинета",
+    "version":  "2026.11.21-0938",
+    "commit":  "0b5548f",
+    "builtUtc":  "2026-11-21T02:38:28.4345545Z",
+    "notes":  "MarketBuyer: значения фильтров по умолчанию не лишние; рынок закрывается перед кликом по стешу; Pricer не жмёт Ctrl+Alt поверх магазина Faustus",
     "localBuild":  false,
     "files":  [
                   {
@@ -12,7 +12,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "17AA3E0F01E98851BAFC777BD4E49399063837311FA1291CA8892083B172E14A",
+                      "sha256":  "D2E98889DF7FAE579F1DB41EFB5A80B1CB3F747A2D240E80131C51E80276DD13",
                       "size":  89600
                   },
                   {
@@ -22,7 +22,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "3E55774665B5A6C970D6846A640867FAA89914A18D628FEE0B88AE636AB73665",
+                      "sha256":  "B9C327FDAA09158C682D406F44DA45DF694043DF469822D39FC1AECA73D4BA77",
                       "size":  62976
                   },
                   {
@@ -32,7 +32,7 @@
                   },
                   {
                       "path":  "Compiled/FollowerPlugin/FollowerPlugin.dll",
-                      "sha256":  "54BA4E8B1D44CF4B02FD6EF5673CC6AA7468BF303A9E70CFA5A23DC544133208",
+                      "sha256":  "E26096BB346EB10FB9A98A6780CF70D43FC7053EFD379F4F7DC161E4E1216C72",
                       "size":  179200
                   },
                   {
@@ -42,7 +42,7 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "F1BA660041D4FAC2DC91F1DC67A07FF77FCE9881CF1619AA7C62A44B2B175887",
+                      "sha256":  "0CF258DA0742A94FEE67F45C2A957A01A3C29FBC6DE4819612D619D3EE0600EB",
                       "size":  135168
                   },
                   {
@@ -52,8 +52,8 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "22A83E2F83AA7AE2D2EF83E9E20F0BF39A8113CB8A318648EC61E769207CF437",
-                      "size":  79360
+                      "sha256":  "26995F9992FB89B0F389F1AB375D617A616A66485DA6C44120CA919E846CF90B",
+                      "size":  81408
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.deps.json",
@@ -62,7 +62,7 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "BF4800D42C5B7ECCD20A6B19D997231967AA312B3B6F68FFCC74DA705D855EC0",
+                      "sha256":  "79F41026B9F9FC993417D28B4E852430A039EB652B5729C6E46F124FF08C7966",
                       "size":  129024
                   },
                   {
@@ -72,8 +72,8 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "233A3C3002921AE894D3D6E51FCAEBF00A526E6458102785BF2F65ED2FC2B346",
-                      "size":  230912
+                      "sha256":  "39A4765C1053DF15414359A407953B013EA2075BD49E30DE081BE234F81458BC",
+                      "size":  231424
                   },
                   {
                       "path":  "Compiled/PricerPlugin/trade_stats.json",
@@ -82,8 +82,8 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "C4B98EA3C55A6B5FEF1B9ACC61D1DF3C6E3AE790E5CF119C6FFA3CFA2A957456",
-                      "size":  587264
+                      "sha256":  "A8E8D2364D5E8E2EE3AC24B3D3546FA15A243537BF5ACFAD5BF33129A812F12A",
+                      "size":  588800
                   }
               ]
 }
