@@ -1,8 +1,8 @@
 {
-    "version":  "2026.11.21-1251",
-    "commit":  "e374560",
-    "builtUtc":  "2026-11-21T05:51:29.3682332Z",
-    "notes":  "Follower: в Лабиринте не жмёт синюю точку — идёт через выходы",
+    "version":  "2026.11.21-1529",
+    "commit":  "171f7e7",
+    "builtUtc":  "2026-11-21T08:29:14.8954852Z",
+    "notes":  "Faustus: окно торговца и биржа открываются репликой диалога (Manage Shop / Currency Exchange), а не Escape по кругу; Pricer перед продажей возвращается в своё убежище",
     "localBuild":  false,
     "files":  [
                   {
@@ -12,7 +12,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "FA4A24007E4EA5F6D83C87CA9B4BE971C96FF2C64659EC13922FA83564DD6E1E",
+                      "sha256":  "4DE1DE6C5480895D55CE7C655E401044262AE93AAA93E5CAA711107DDB2664CA",
                       "size":  89600
                   },
                   {
@@ -22,7 +22,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "636F98AFD51EF983DE0B24D49A235AAE45092AB44EC492F7C7554019DD9922BD",
+                      "sha256":  "6C045697AF8C7D54A9E5599DFEFEF416BF0F55C8986AF752A523BBC7D668ADBA",
                       "size":  62976
                   },
                   {
@@ -32,7 +32,7 @@
                   },
                   {
                       "path":  "Compiled/FollowerPlugin/FollowerPlugin.dll",
-                      "sha256":  "A0A2EF9B28B4752823456C9DB759F2F83BB335269F9F28457AA04687A5351FCE",
+                      "sha256":  "5097A2C74D4FED871BFE1AB90B1D2DBC0C171EC341DB2EFE446538A9A821B0F6",
                       "size":  192512
                   },
                   {
@@ -42,7 +42,7 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "D00B137FD685E7CB30E122BE376757B83702EA440E39D5FA8048CFD7CB09460C",
+                      "sha256":  "4551A0465426CC2A34074E44F2C0587DBB4FCD157976D90C8565D30A9D4A34F4",
                       "size":  135168
                   },
                   {
@@ -52,7 +52,7 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "C8D4557E1FE64513C6B779128F706CAFA98449064CAF7902D12899C2F238CA88",
+                      "sha256":  "84DE017ECEBE731F8889E1037EDAFE91A22FE523757E1946D49CBAA725459F7B",
                       "size":  81920
                   },
                   {
@@ -62,7 +62,7 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "9C85B76DC6466EBA5E9CCC79E860CAD6EA5DBC4693EAEB6974643D418EB04473",
+                      "sha256":  "BBAE2FB91CCEE248BDB669E2C29BF6F12E0FFA7E2C1620EEDC5656C2811D5B5C",
                       "size":  129024
                   },
                   {
@@ -72,8 +72,8 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "03D2A032820E326F5876791E046C1251A06F4093199E2FA37F6E57A464EEC8EC",
-                      "size":  232960
+                      "sha256":  "4ED282F45B75025D15ECDBE8B56A728EECA0F341226E8AE952845D91EBBD57D9",
+                      "size":  234496
                   },
                   {
                       "path":  "Compiled/PricerPlugin/trade_stats.json",
@@ -82,8 +82,8 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "1DD87174134C483598DE11865BEE652302C26A52360990046DC77840071FBFF9",
-                      "size":  590336
+                      "sha256":  "C836D0899058339C900A814C93D9620BBF3CB1C029DFBF20A58DB1A7459B9326",
+                      "size":  590848
                   }
               ]
 }
