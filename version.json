@@ -1,8 +1,8 @@
 {
-    "version":  "2026.11.23-0218",
-    "commit":  "3b8bcc0",
-    "builtUtc":  "2026-11-22T19:18:44.9361484Z",
-    "notes":  "Агент: закрывает окно об устаревшем драйвере при входе; скриншот рабочего стола для админа",
+    "version":  "2026.11.23-0447",
+    "commit":  "0e37f1e",
+    "builtUtc":  "2026-11-22T21:47:03.8617442Z",
+    "notes":  "Снимок показывает лицензию плагина; в журнале видно, почему старт от агента отклонён",
     "localBuild":  false,
     "files":  [
                   {
@@ -12,7 +12,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "85246138D24B71469C2980EEA0DE4DA11059CF4FF3BC6D9FFB5218EE7D1683C7",
+                      "sha256":  "B61C74D94CC28E061B1C6C2F45F844FFC5077C63309EE2C5DD41CBA580214150",
                       "size":  89600
                   },
                   {
@@ -22,7 +22,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "25E879B1EF368D38BD897897D3B538AA58E3D98E2568E1CBC2445CB19E6E1804",
+                      "sha256":  "9832538A0A942B9DAC7B705352B73772C5EC04EEEFB1A0E5A1BC0898E08FEEB0",
                       "size":  62976
                   },
                   {
@@ -32,7 +32,7 @@
                   },
                   {
                       "path":  "Compiled/FollowerPlugin/FollowerPlugin.dll",
-                      "sha256":  "C36CC973B7CA857155E621A337DFCE2FCD45A32971B93F0768163E105709A2E6",
+                      "sha256":  "2ADF29B2075F30A5AE711FD038FE9515DFC4C24EE42F4DEB73C3B72D6F107C23",
                       "size":  192512
                   },
                   {
@@ -42,7 +42,7 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "60BD5463BAAD6009D36547D02EE4B003F1C64924D035405AFC543A821C6F3B1B",
+                      "sha256":  "A86D4914100241BE1AF5492A86955C45D2886653CFDF03DFDA9890EFED6DD2CB",
                       "size":  135168
                   },
                   {
@@ -52,7 +52,7 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "ED0B0BEC32A9442874573E05430C9ECE8C8F7D3BC96A2F01E991D76FA099BFD8",
+                      "sha256":  "DE2914B76AA18FDAA600FEE23555CBE2132710C18110F42A15867A76F629BAA3",
                       "size":  81920
                   },
                   {
@@ -62,8 +62,8 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "B64D470986079D1A5B21F2BC62DE086494E9392F20F4C325A102A2D9531F327B",
-                      "size":  129024
+                      "sha256":  "8575355EDEFD13569148DAB6AE419889A69A99D58BB36D915859027450E580AB",
+                      "size":  130048
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.deps.json",
@@ -72,7 +72,7 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "1C3F2C3918CE7D80294F7643D651A848BFF2E1637B50CD08B879D4967981D2E7",
+                      "sha256":  "0A2E294ACDF95703EC01DF0F983996949758705CB69E39DF4BDAF734768539D0",
                       "size":  236544
                   },
                   {
@@ -82,8 +82,8 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "8C7B965E4C66F66DE99DA59C9496CD20449B466CB985A8E9A944D76BE16B0E1A",
-                      "size":  590848
+                      "sha256":  "A141DCBBDE07F66E03A1EE85C1373C883632BC003242802314871303FC5706A0",
+                      "size":  591872
                   }
               ]
 }
