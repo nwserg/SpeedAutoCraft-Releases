@@ -1,8 +1,8 @@
 {
-    "version":  "2026.11.23-2230",
-    "commit":  "cb7ad5b",
-    "builtUtc":  "2026-11-23T15:30:12.3030305Z",
-    "notes":  "Passive Tree: рамка 20% от краёв, узел к центру небольшими сдвигами, по одному узлу",
+    "version":  "2026.11.23-2317",
+    "commit":  "d404e20",
+    "builtUtc":  "2026-11-23T16:17:52.2082028Z",
+    "notes":  "Follower: сам закрывает меню игры по Escape, в котором застревал",
     "localBuild":  false,
     "files":  [
                   {
@@ -12,7 +12,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "30D0F2E20E040A9C53280F76A585F6ADAD30BF9FE6BDF21707879039162AD008",
+                      "sha256":  "0C23E51C02C3B6D3BB0D7BE765F75D419A9DDB58672EE93479B612D0749C51E4",
                       "size":  92160
                   },
                   {
@@ -22,7 +22,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "C1C8CAA5684E1EA860AADAB926278BE54B4BB75BED74512FD6A79A2AFD6ACC24",
+                      "sha256":  "3D0F7169C6263F9155EB6C92E2E59EFFA456CBA5319DBFA16DC886352A7BF953",
                       "size":  65024
                   },
                   {
@@ -32,8 +32,8 @@
                   },
                   {
                       "path":  "Compiled/FollowerPlugin/FollowerPlugin.dll",
-                      "sha256":  "F437B3DD611ECE55A3C8ACA0F34EF8869C3934C2B7B7E072403556F87FB16044",
-                      "size":  193024
+                      "sha256":  "3798C208669F195B21151A23027A0723220E3ED972E994C9A339EC79090AB9A7",
+                      "size":  194048
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.deps.json",
@@ -42,7 +42,7 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "2C2ECE2E05BE0B7E083C875110E96B5207DEA376F04646C3B77F7D6E98F9BB50",
+                      "sha256":  "1626334281DC159975366FC544E7A50CCBCEAB4720BAD55DFA5BAEC180E3DFD8",
                       "size":  135168
                   },
                   {
@@ -52,7 +52,7 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "E10BC4A56211EEA8E5E99B26CD6601901E736B03E744EFA9EBCFA70B04E145E0",
+                      "sha256":  "38E1E7DCF9F5F6BB84470AED99A4DEE5EB54693A4B829D43E9F02D83BCA5A7D7",
                       "size":  83456
                   },
                   {
@@ -62,7 +62,7 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "20740B775746B525D9F43C92289E35225E19D03A22D976BFD1D9BCA17A2FFCD4",
+                      "sha256":  "E21CC8EC76140310778724AB8D8837B5A9E7C1906537F5300181AF735820D0D4",
                       "size":  130048
                   },
                   {
@@ -72,7 +72,7 @@
                   },
                   {
                       "path":  "Compiled/PassiveTreePlugin/PassiveTreePlugin.dll",
-                      "sha256":  "0656826D761265C28B241AAFC2BF18A575CA98E88160A724D6D2C99D1A6345AF",
+                      "sha256":  "5DF1A62F6A2B308C76D1B99F105EA60D39625BB95DCED13EBE896F90AB8DBB4D",
                       "size":  46592
                   },
                   {
@@ -82,7 +82,7 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "57E3150FC00D49182A4D267ABDA3785819A02EAB456F0330289E83790B47175E",
+                      "sha256":  "7BE179E0431753599C98D5FD2189B71BCD8094DE5A62A399A4AEE515B732F89C",
                       "size":  236544
                   },
                   {
@@ -92,7 +92,7 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "DA74AC230519415BD1E976B95A23271F8911F1EBCE4DBFC4EB85A9F1728AE017",
+                      "sha256":  "7F7F90DFC8BE2080E4267035D374D9F7E359DE13CBAFE19B7198AF2619E2241F",
                       "size":  592896
                   }
               ]
