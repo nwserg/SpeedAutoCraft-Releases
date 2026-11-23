@@ -1,8 +1,8 @@
 {
-    "version":  "2026.11.24-0517",
-    "commit":  "93390a0",
-    "builtUtc":  "2026-11-23T22:17:52.7822091Z",
-    "notes":  "Follower: не тормозит на картах с лутом — курсор двигается плавно, подписи на земле читаются в фоне; фласки легче; меньше ложных переходов лидера",
+    "version":  "2026.11.24-0537",
+    "commit":  "25107a8",
+    "builtUtc":  "2026-11-23T22:37:32.4975519Z",
+    "notes":  "Follower: курсор движется плавно и на слабом ПК — больше не прыгает рывками",
     "localBuild":  false,
     "files":  [
                   {
@@ -12,7 +12,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "6311CF22C63B68580D6BC7912C71413965A6816705AF1CD5467CD0E25B8D617F",
+                      "sha256":  "6B39D579F08336A4AF26A7E5E43D39EE0D915B4D0CF8B3A41F4253AD9FBBA3D9",
                       "size":  92160
                   },
                   {
@@ -22,7 +22,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "7E9FCF9128024ABB59E4CB958CDEE1964102425A760403B968FCB8CDCC36AA79",
+                      "sha256":  "919036891708A5AFC9C95F98372EDD0DD5D35C36B06FE47341CF4EAB1BF2FA29",
                       "size":  65024
                   },
                   {
@@ -32,7 +32,7 @@
                   },
                   {
                       "path":  "Compiled/FollowerPlugin/FollowerPlugin.dll",
-                      "sha256":  "24539065817D2B07C1FBE81AA8E4042102EDA844E812B69D77089FD3531D4DF1",
+                      "sha256":  "B52EC7DD2CEB069FB6636090827673216DB395541E20FD6E8F5BEEEF84BA96D4",
                       "size":  202240
                   },
                   {
@@ -42,7 +42,7 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "EAD5CDC69EA678E15D430FD587718CEAD91D56512F9EC1F6D5DC99C40538E80B",
+                      "sha256":  "C0F51ECCB07429D19CB60A9DA05569F7321AA06C09A5AD617F95792C7C2C1D24",
                       "size":  135168
                   },
                   {
@@ -52,7 +52,7 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "DCA501623791BF128E6E95BB16ACCE2B737400AF1ED53109BDEB258E8BAB7442",
+                      "sha256":  "ACD4EEE56A0EB592B3E12330A18B6D67882669F361E757EF20D0D11E4FD37BB9",
                       "size":  83456
                   },
                   {
@@ -62,7 +62,7 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "224BC6C791B1BB79EEB8FA3BE2C2100305C309B0F4505C25053C2AE822AEB9A3",
+                      "sha256":  "B46D4FBF5080A95058EEDAD043E6185CE7001D930499A1D5EF3EDD0F072C6B43",
                       "size":  130048
                   },
                   {
@@ -72,7 +72,7 @@
                   },
                   {
                       "path":  "Compiled/PassiveTreePlugin/PassiveTreePlugin.dll",
-                      "sha256":  "D31E61EC0DD2F007B86C5990AD1E1253E92C893141993C170A61DD6BAD21CDDD",
+                      "sha256":  "3B25070C39B5C51C803FB81D02AF1BDC2994D8C353A97E624931B81D83619F0F",
                       "size":  46592
                   },
                   {
@@ -82,7 +82,7 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "3A064FE546C66B778BF44B3166F008AA984D7EE660B1ABFE23726FDB35ACDFFF",
+                      "sha256":  "80B93DF30CA26E777D21124EEFBE81F499C3B6C4F1A6D1CDA055EC6262D8ECC7",
                       "size":  236544
                   },
                   {
@@ -92,8 +92,8 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "FB3E67FC920088FB0EB10AD361797DF23DC4CBC71372413FAE0B617AFD743F71",
-                      "size":  595456
+                      "sha256":  "307C068C23BADA56FC1F253EACC5CEF8271D05E583307541DCE2E5D7AA5A2F31",
+                      "size":  596992
                   }
               ]
 }
