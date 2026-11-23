@@ -1,8 +1,8 @@
 {
-    "version":  "2026.11.24-0615",
-    "commit":  "a2c6f4f",
-    "builtUtc":  "2026-11-23T23:15:10.6569787Z",
-    "notes":  "Агент: выбор окна игры 1280x720 / 800x600; старт Follow по F2; лишние ExileApi закрываются",
+    "version":  "2026.11.24-0624",
+    "commit":  "581f34f",
+    "builtUtc":  "2026-11-23T23:24:21.5473548Z",
+    "notes":  "Размер окна игры (1280x720 / 800x600) выбирается в кабинете: Настройки -\u003e Окно игры",
     "localBuild":  false,
     "files":  [
                   {
@@ -12,7 +12,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "91E3580EC5B696502499443CE516A6B7EBCDF30ABB24EF9D579D3FD3FB98DF70",
+                      "sha256":  "64BC3B2D8D3E06D6F200CD086F89711A1C36A75BF1BFDB27C30D0332DA697A98",
                       "size":  92160
                   },
                   {
@@ -22,7 +22,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "84CE7BCE5E7BA962094380C98C9BB9F51B4D6B8D2515C2F9CF34F2824C3B68E8",
+                      "sha256":  "D43EB707A5B6CFF31E90D89F1A052A6F32293861692BEEF323068258A92EA76A",
                       "size":  65024
                   },
                   {
@@ -32,7 +32,7 @@
                   },
                   {
                       "path":  "Compiled/FollowerPlugin/FollowerPlugin.dll",
-                      "sha256":  "35F6C498C8B298CEA4943F3CEBA17777ACB6ABB6B5DED743906D55E87F3EDF1E",
+                      "sha256":  "BE6938AE24EBF82977A001D11B337033DD052ADC98940A6936E5CEC714FC7D02",
                       "size":  202240
                   },
                   {
@@ -42,7 +42,7 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "AF22E4E68E1533FCF6EB68A0EFE00B4617B9E075424BD11D719249FF21083710",
+                      "sha256":  "9825256C102AC785FBF14EB00ADBA570A53562B345464F88CE2B7F716CF85EE7",
                       "size":  135168
                   },
                   {
@@ -52,7 +52,7 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "DC17510A7891A74767846AFB6FCA66C909FC1C3C85F48AF038219D2AC4290250",
+                      "sha256":  "3A10463F00543AB62430C8382942F87188132A4CC03B8638A9B27EACE740ACED",
                       "size":  83456
                   },
                   {
@@ -62,7 +62,7 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "D6C274FF4FD59D27EDE2080265E8D7FFE8E94AF3D5A2D5AAF7987EC41ADEFE24",
+                      "sha256":  "75B0D6B8EFD5485F6F92C1855AE319931898662A619F4AF09BCB2BD567827705",
                       "size":  130048
                   },
                   {
@@ -72,7 +72,7 @@
                   },
                   {
                       "path":  "Compiled/PassiveTreePlugin/PassiveTreePlugin.dll",
-                      "sha256":  "D0E5E15FA24D2BE9BD38A94513B5857DF147FA1EEEEF9BF5BE984A70DCBF8535",
+                      "sha256":  "8E6F02A43173CABD664DA1904C8849485319B36708580EE6644B8ECD38E2CB2E",
                       "size":  46592
                   },
                   {
@@ -82,7 +82,7 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "57CE6CA458CA4E097C8A8C6C83A605986E963C8A0F008BE2F7F704C6E789BA31",
+                      "sha256":  "2CA3045E8C0006D6C4C6763B1A6FE70325969CC68A2E05D36CB1248F15B9F810",
                       "size":  236544
                   },
                   {
@@ -92,8 +92,8 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "092D4427699D10CC164FFD69187A904B6F75EFAEFA3D136F500929AC9DFE089B",
-                      "size":  598528
+                      "sha256":  "695804155847B2621891178B117E607A9CFB37DC3C0F1932ED96B19B872F72DA",
+                      "size":  599552
                   }
               ]
 }
