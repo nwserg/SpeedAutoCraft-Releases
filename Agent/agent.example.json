@@ -5,6 +5,7 @@
   "startHotkey": "Ctrl+F5",
   "stopHotkey": "Ctrl+F6",
   "followHotkey": "F2",
+  "gameResolution": "1280x720",
   "serverUrl": "https://craft-cloud.ru",
   "deviceName": null,
   "remoteConsole": false
