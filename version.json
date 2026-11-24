@@ -1,8 +1,8 @@
 {
-    "version":  "2026.11.24-0747",
-    "commit":  "1835bbc",
-    "builtUtc":  "2026-11-24T00:47:45.6778441Z",
-    "notes":  "Follow: погибший лидер воскрес в другой зоне — бот идёт к нему, а не ждёт на месте",
+    "version":  "2026.11.25-0116",
+    "commit":  "b447ee1",
+    "builtUtc":  "2026-11-24T18:16:50.6106332Z",
+    "notes":  "Агент: снимает заставку Windows, ставит размер окна без фокуса, прямо пишет о блокировке экрана",
     "localBuild":  false,
     "files":  [
                   {
@@ -12,7 +12,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "3DB90102951A3585BA157270B2A992467A719DA9AB8638BB33686CBDD4D6E913",
+                      "sha256":  "0C6A2CF60D8A8555F3030DF238FA75F86538C7FD7F0E949849547E2C62366B05",
                       "size":  92160
                   },
                   {
@@ -22,7 +22,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "2DDFEEBAC96A4E974750BC07503524303B6DE4A3240B01083CE8AC1016017F0C",
+                      "sha256":  "69DA1B7F561BA573C040B2A3CD28D01B563E82031B1CF670E04E7D0DFC56B64B",
                       "size":  65024
                   },
                   {
@@ -32,7 +32,7 @@
                   },
                   {
                       "path":  "Compiled/FollowerPlugin/FollowerPlugin.dll",
-                      "sha256":  "CD6C4DD72C33A3579C9913E0294B0A80B2C053C9118EC6FF1886A9D1C038A3CD",
+                      "sha256":  "1E678243C82FBC386D3EA16BC91B190E1A37B04105A62F7A6D39ECAD64F1796B",
                       "size":  202752
                   },
                   {
@@ -42,7 +42,7 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "87ABD3C1C9077EE524FF7B2C09661F4C9985485BC60A41379D4F47DF8BB1E5F5",
+                      "sha256":  "0960C4A752E00B55477BA83A99915D62B36A2CDB72EB6A7F788B1A1B3F347AE2",
                       "size":  135168
                   },
                   {
@@ -52,7 +52,7 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "9CB8DBB15D21A1402D54F2338039265B21F2FB144917F3C4A58558F6404366DE",
+                      "sha256":  "8DD5FF06B4FF4E724E51AAD95558A3C6B4D8EB60291651B6D03FD109F704D5D9",
                       "size":  83456
                   },
                   {
@@ -62,7 +62,7 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "A59E5ADFBDB9F44363FFEF76F39A9F42A962544205EEBDAADF61A7E845AFB38F",
+                      "sha256":  "BBD3CEC583913486B28CA557EA90B6765430B4AF29AADAAEC15A293A1D71F480",
                       "size":  130048
                   },
                   {
@@ -72,7 +72,7 @@
                   },
                   {
                       "path":  "Compiled/PassiveTreePlugin/PassiveTreePlugin.dll",
-                      "sha256":  "51CB89B91BCC8B7E6AB61370095A209AEEA9B5A4840996803DCFE407CF511721",
+                      "sha256":  "666789C75ECA054FFF4FBBABDFECEF7D9B304EF604F60329093B18883262833D",
                       "size":  46592
                   },
                   {
@@ -82,7 +82,7 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "0D75D333B3D02DAF58736D93499E142575481980D78CFB0FD3F05C68D7ED85FC",
+                      "sha256":  "67187BA77FE41D1553FA7FC9BEA16662F960A577B5015B4FC145608BC1694730",
                       "size":  239104
                   },
                   {
@@ -92,7 +92,7 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "F609229039DEAB1082B0D9EC60040586B2E24D9A095791F4DBA348E1BEA93CE5",
+                      "sha256":  "BD42FEE09BA86646632F84C2C955C7105EC1FC0AB4C2FAE10C1DDF57452676E8",
                       "size":  600064
                   }
               ]
