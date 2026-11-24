@@ -1,8 +1,8 @@
 {
-    "version":  "2026.11.24-0624",
-    "commit":  "581f34f",
-    "builtUtc":  "2026-11-23T23:24:21.5473548Z",
-    "notes":  "Размер окна игры (1280x720 / 800x600) выбирается в кабинете: Настройки -\u003e Окно игры",
+    "version":  "2026.11.24-0747",
+    "commit":  "1835bbc",
+    "builtUtc":  "2026-11-24T00:47:45.6778441Z",
+    "notes":  "Follow: погибший лидер воскрес в другой зоне — бот идёт к нему, а не ждёт на месте",
     "localBuild":  false,
     "files":  [
                   {
@@ -12,7 +12,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "64BC3B2D8D3E06D6F200CD086F89711A1C36A75BF1BFDB27C30D0332DA697A98",
+                      "sha256":  "3DB90102951A3585BA157270B2A992467A719DA9AB8638BB33686CBDD4D6E913",
                       "size":  92160
                   },
                   {
@@ -22,7 +22,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "D43EB707A5B6CFF31E90D89F1A052A6F32293861692BEEF323068258A92EA76A",
+                      "sha256":  "2DDFEEBAC96A4E974750BC07503524303B6DE4A3240B01083CE8AC1016017F0C",
                       "size":  65024
                   },
                   {
@@ -32,8 +32,8 @@
                   },
                   {
                       "path":  "Compiled/FollowerPlugin/FollowerPlugin.dll",
-                      "sha256":  "BE6938AE24EBF82977A001D11B337033DD052ADC98940A6936E5CEC714FC7D02",
-                      "size":  202240
+                      "sha256":  "CD6C4DD72C33A3579C9913E0294B0A80B2C053C9118EC6FF1886A9D1C038A3CD",
+                      "size":  202752
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.deps.json",
@@ -42,7 +42,7 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "9825256C102AC785FBF14EB00ADBA570A53562B345464F88CE2B7F716CF85EE7",
+                      "sha256":  "87ABD3C1C9077EE524FF7B2C09661F4C9985485BC60A41379D4F47DF8BB1E5F5",
                       "size":  135168
                   },
                   {
@@ -52,7 +52,7 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "3A10463F00543AB62430C8382942F87188132A4CC03B8638A9B27EACE740ACED",
+                      "sha256":  "9CB8DBB15D21A1402D54F2338039265B21F2FB144917F3C4A58558F6404366DE",
                       "size":  83456
                   },
                   {
@@ -62,7 +62,7 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "75B0D6B8EFD5485F6F92C1855AE319931898662A619F4AF09BCB2BD567827705",
+                      "sha256":  "A59E5ADFBDB9F44363FFEF76F39A9F42A962544205EEBDAADF61A7E845AFB38F",
                       "size":  130048
                   },
                   {
@@ -72,7 +72,7 @@
                   },
                   {
                       "path":  "Compiled/PassiveTreePlugin/PassiveTreePlugin.dll",
-                      "sha256":  "8E6F02A43173CABD664DA1904C8849485319B36708580EE6644B8ECD38E2CB2E",
+                      "sha256":  "51CB89B91BCC8B7E6AB61370095A209AEEA9B5A4840996803DCFE407CF511721",
                       "size":  46592
                   },
                   {
@@ -82,8 +82,8 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "2CA3045E8C0006D6C4C6763B1A6FE70325969CC68A2E05D36CB1248F15B9F810",
-                      "size":  236544
+                      "sha256":  "0D75D333B3D02DAF58736D93499E142575481980D78CFB0FD3F05C68D7ED85FC",
+                      "size":  239104
                   },
                   {
                       "path":  "Compiled/PricerPlugin/trade_stats.json",
@@ -92,8 +92,8 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "695804155847B2621891178B117E607A9CFB37DC3C0F1932ED96B19B872F72DA",
-                      "size":  599552
+                      "sha256":  "F609229039DEAB1082B0D9EC60040586B2E24D9A095791F4DBA348E1BEA93CE5",
+                      "size":  600064
                   }
               ]
 }
