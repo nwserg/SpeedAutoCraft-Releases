@@ -1,8 +1,8 @@
 {
-    "version":  "2026.11.27-0336",
-    "commit":  "1679d41",
-    "builtUtc":  "2026-11-26T20:36:33.1991727Z",
-    "notes":  "Продажа: если на трейде нет цены, бот берёт её из базы цен — последний скан того же набора нотейблов",
+    "version":  "2026.11.27-0343",
+    "commit":  "11c6143",
+    "builtUtc":  "2026-11-26T20:43:34.3905004Z",
+    "notes":  "Продажа: после перезапуска бот сам видит готовые во вкладке и запускает автопродажу",
     "localBuild":  false,
     "files":  [
                   {
@@ -12,7 +12,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterCraftPlugin/ClusterCraftPlugin.dll",
-                      "sha256":  "2CDD9708DD3DA4B029AADED92509CA14729E9F2218A2D9F01529B0475E8A03BF",
+                      "sha256":  "729EAD759EB24CDC7508A87C23090247ACB71F07765295DB9EC7BCAFAAE0A9EA",
                       "size":  92160
                   },
                   {
@@ -22,7 +22,7 @@
                   },
                   {
                       "path":  "Compiled/ClusterMoverPlugin/ClusterMoverPlugin.dll",
-                      "sha256":  "00DD2A08B8EE2A17F29034BC3FBB21369DEB314CD3C44361EB06403E10D0E978",
+                      "sha256":  "D10CFCED19439BE2B1596D69D15ED8BBB841F5D7DBCE8DE4714ED8319E0BEB81",
                       "size":  77312
                   },
                   {
@@ -32,7 +32,7 @@
                   },
                   {
                       "path":  "Compiled/FollowerPlugin/FollowerPlugin.dll",
-                      "sha256":  "49FF14431EFFAF896D48D53636F56F5F2DB7EB51B0E97630A32713A162FAD1CC",
+                      "sha256":  "E02564556D6DA2CD40DB7FB528A21C353B2B2A58E21C937DE4F9F261FB0CCD87",
                       "size":  220160
                   },
                   {
@@ -42,7 +42,7 @@
                   },
                   {
                       "path":  "Compiled/GhostflameHighlighterPlugin/GhostflameHighlighterPlugin.dll",
-                      "sha256":  "7F1BA0FFF4A7F033D7965B6DEE0668603958A3485E26ACFF02B88794A60DA9D1",
+                      "sha256":  "141218EF6520571FD18A7445D8B1B40412CA963E95D97105F9660894C4DDDBF7",
                       "size":  135168
                   },
                   {
@@ -52,7 +52,7 @@
                   },
                   {
                       "path":  "Compiled/MarketBuyerPlugin/MarketBuyerPlugin.dll",
-                      "sha256":  "15969F805C3D6D8998512B2AC53DB9AAF9A840970C0C60400BD0166910DC16BE",
+                      "sha256":  "524082873E0D85EA25BEFEE0BBF6CAD2CCDED09249BE785AD4B51CCEDE11EE1E",
                       "size":  83456
                   },
                   {
@@ -62,7 +62,7 @@
                   },
                   {
                       "path":  "Compiled/OrchestratorPlugin/OrchestratorPlugin.dll",
-                      "sha256":  "C6FB1AC156594D0B72602085D77C01E18AC87B78729BE1BE2F08E6C90DC0D130",
+                      "sha256":  "24AF90198095C994E28F293AE466381E251AAC59F1BCECB67DC5B740E4948EBD",
                       "size":  154112
                   },
                   {
@@ -72,7 +72,7 @@
                   },
                   {
                       "path":  "Compiled/PassiveTreePlugin/PassiveTreePlugin.dll",
-                      "sha256":  "1C7E793095AE475A31E2B8FE0F64A8FEAFB75E21FA516BC95AB028D8D2B0224C",
+                      "sha256":  "C0EADA503CE008E1F3CA033F3254DB97AC2451959526501F67DC0900C7EDB98D",
                       "size":  46592
                   },
                   {
@@ -82,7 +82,7 @@
                   },
                   {
                       "path":  "Compiled/PricerPlugin/PricerPlugin.dll",
-                      "sha256":  "F84B9CC2BC38A91B395C5E142D8847E7DC196A7016F5090B4A6DD507F3D3DEE1",
+                      "sha256":  "CC81520C560CF9A23FF477ADE99204BABC6E88A111394082EF04369B3DE6708D",
                       "size":  251392
                   },
                   {
@@ -92,7 +92,7 @@
                   },
                   {
                       "path":  "Core/SpeedAutoCraft.Core.dll",
-                      "sha256":  "15ABDCAC33C3A68B883BFED75C6373B8EB86B795D8202B2F5EF2BA4D32BE6D0A",
+                      "sha256":  "F82B1A31D901255BE135321FAE62CF994066844E462811458A294AA316AB05C5",
                       "size":  617984
                   }
               ]
